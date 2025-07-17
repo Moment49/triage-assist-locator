@@ -1,6 +1,6 @@
 # 🏥 Triage Assist Locator
 
-**Triage Assist Locator** is a command-line health triage assistant that helps users quickly find the nearest hospital based on their current location and the severity of an emergency. Designed to be fast, intuitive, and offline-ready, TriageAssist aims to assist in life-threatening situations by offering hospital recommendations and estimated arrival times (ETA).
+**Triage Assist Locator** is a command-line health triage assistant that helps users quickly find the nearest hospital based on their current location and the severity of an emergency. Designed to be fast, intuitive, and offline-ready, Triage Assist locator aims to assist in life-threatening situations by offering hospital recommendations and estimated arrival times (ETA).
 
 ---
 
