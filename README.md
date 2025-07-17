@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-- **Python 3.10+**
+- **Python 3.12+**
 - **CLI-based interface** using built-in modules
 - **Asyncio** for simulated I/O handling
 - **Decorators** for logging and validation
