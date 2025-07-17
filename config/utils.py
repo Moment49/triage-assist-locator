@@ -6,14 +6,23 @@ import asyncio
 import aiomysql
 import json
 import time
-
-
-path = os.getcwd()
+import functools
 
 filename = '../data/hospital_data.json'
-# print(filename)
 
 
+def data_insertion(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        func(*args, **kwargs)
+    return wrapper
+
+
+
+@data_insertion
+def data_processing():
+    # This is a generator function to process data from the json file
+    pass
 
 
 
@@ -26,3 +35,6 @@ def hospital_data(filename):
 
 for data in hospital_data(filename):
     print(data)
+
+
+
