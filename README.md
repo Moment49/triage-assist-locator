@@ -25,3 +25,12 @@
 - **Geolocation APIs** (like Nominatim or Google Geocoding) for live user coordinates *(optional)*
 
 ---
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/elvisibenacho/TriageAssist.git
+cd TriageAssist
+python main/triage_locator.py
