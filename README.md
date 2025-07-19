@@ -127,18 +127,6 @@ Follow the on-screen prompts to enter your name, location, and emergency severit
 
 ---
 
-## 🏗️ Running as a Package 
-
-To use this project as a package in your own Python scripts, import the main locator module:
-
-```python
-from main.triage_locator import main
-
-```
-
-Then run the main coroutine using `asyncio.run(main())`.
-
----
 
 ## 🤝 Contributing
 

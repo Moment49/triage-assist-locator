@@ -6,8 +6,6 @@ from logs.log_config import logger
 import main.utils as utils
 
 
-
-
 async def main():
     """This is the main program function for the application that will be executed 
     and called from the main.py file later
@@ -37,13 +35,13 @@ async def main():
                     user_name = input("Please Enter your name: ")
                     logger.info(f"Log the user name: {user_name}")
                     
-                    if user_name == "":
+                    if user_name == " ":
                         continue
                     if not user_name.isalpha():
                         continue
 
                     user_loc = input("Please Enter current location(state, city, town or area): ")
-                    user_emerg_serv = input("Enter the severity of emergency: ")
+                    user_emerg_serv = input("Enter the severity of emergency (low, medium, high, critical): ")
 
                     logger.info(f"Log the user name location: {user_loc}")
                     logger.info(f"Log the user name emergency severity: {user_emerg_serv}")
@@ -82,8 +80,7 @@ async def main():
                         print(f"Hospital Name | ETA to hospital | Distance to hospital") 
                         for eta_hos in sorted_hospital_result[:5]:
                             print(f"{eta_hos['name']}  {eta_hos['ETA_in_minutes']} minutes - {eta_hos['distance']} KM ")
-                            logger.info(f"""Hospital Name: {eta_hos['name']}/n
-                                            ETA to hospital: {eta_hos['ETA_in_minutes']} minutes
+                            logger.info(f"""Hospital Name: {eta_hos['name']} ETA to hospital: {eta_hos['ETA_in_minutes']} minutes
                                             Distance to hospital: {eta_hos['distance']} KM""")
 
                     # Ask if the user if the want to continue using the app
