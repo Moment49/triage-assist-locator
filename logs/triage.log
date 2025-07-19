@@ -1,0 +1,1264 @@
+2025-07-19 02:39:54,509 Do you want to continue using the application (yes or no): no ✅
+2025-07-19 02:39:54,509 👋 Goodbye Eva
+2025-07-19 02:39:56,306 Using selector: EpollSelector
+2025-07-19 02:39:57,394 User Key interactions: 1
+2025-07-19 02:39:59,326 Log the user name: Eva
+2025-07-19 02:40:05,342 Log the user name location: mile2
+2025-07-19 02:40:05,343 Log the user name emergency severity: low
+2025-07-19 02:40:05,343 
+Hi Eva, searching for hospitals near mile2...
+2025-07-19 02:40:05,343 Emergency Severity: low
+2025-07-19 02:40:10,895 ✅ Returning the list of hospitals within the area based on the shortest ETA...
+2025-07-19 02:40:10,896 User:Eva, location:mile2, severity:low
+2025-07-19 02:40:10,956 This is the geolocator object that will be                     returned once whic will be used to get the lat and lon coordinates: <geopy.geocoders.nominatim.Nominatim object at 0x729b269d5ac0>
+2025-07-19 02:40:10,956 Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=mile2&format=json&limit=1
+2025-07-19 02:40:11,474 User current location cordinates: (-77.5670765, 37.384356)
+2025-07-19 02:40:11,493 final research result info for the user on hospital arrival: ETA -78.56 minutes, distance in KM-78.56 to Baker, Kelly and Galloway Hospital facilty
+2025-07-19 02:40:11,493 final research result info for the user on hospital arrival: ETA -74.64 minutes, distance in KM-74.64 to Ortega-Cortez Hospital facilty
+2025-07-19 02:40:11,493 final research result info for the user on hospital arrival: ETA -77.82 minutes, distance in KM-77.82 to Carrillo, Lynch and Barajas Hospital facilty
+2025-07-19 02:40:11,494 Hospital Name: Ortega-Cortez Hospital/n
+                                            ETA to hospital: 74.64 minutes
+                                            Distance to hospital: 74.64 KM
+2025-07-19 02:40:11,494 Hospital Name: Carrillo, Lynch and Barajas Hospital/n
+                                            ETA to hospital: 77.82 minutes
+                                            Distance to hospital: 77.82 KM
+2025-07-19 02:40:11,494 Hospital Name: Baker, Kelly and Galloway Hospital/n
+                                            ETA to hospital: 78.56 minutes
+                                            Distance to hospital: 78.56 KM
+2025-07-19 02:40:56,468 Do you want to continue using the application (yes or no): no ✅
+2025-07-19 02:40:56,468 👋 Goodbye Eva
+2025-07-19 02:40:57,886 Using selector: EpollSelector
+2025-07-19 02:40:58,390 User Key interactions: 1
+2025-07-19 02:41:02,666 Log the user name: James
+2025-07-19 02:41:08,436 Log the user name location: mile2
+2025-07-19 02:41:08,436 Log the user name emergency severity: High
+2025-07-19 02:41:08,436 
+Hi James, searching for hospitals near mile2...
+2025-07-19 02:41:08,436 Emergency Severity: High
+2025-07-19 02:41:10,439 ✅ Returning the list of hospitals within the area based on the shortest ETA...
+2025-07-19 02:41:10,441 User:James, location:mile2, severity:High
+2025-07-19 02:41:10,534 This is the geolocator object that will be                     returned once whic will be used to get the lat and lon coordinates: <geopy.geocoders.nominatim.Nominatim object at 0x7ea240d9b320>
+2025-07-19 02:41:10,534 Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=mile2&format=json&limit=1
+2025-07-19 02:41:11,006 User current location cordinates: (-77.5670765, 37.384356)
+2025-07-19 02:41:11,032 final research result info for the user on hospital arrival: ETA -84.24 minutes, distance in KM-84.24 to Wilson-Patel Hospital facilty
+2025-07-19 02:41:11,032 final research result info for the user on hospital arrival: ETA -71.01 minutes, distance in KM-71.01 to Brown, Carey and Cruz Hospital facilty
+2025-07-19 02:41:11,032 final research result info for the user on hospital arrival: ETA -73.94 minutes, distance in KM-73.94 to Moore-Skinner Hospital facilty
+2025-07-19 02:41:11,032 Hospital Name: Brown, Carey and Cruz Hospital/n
+                                            ETA to hospital: 71.01 minutes
+                                            Distance to hospital: 71.01 KM
+2025-07-19 02:41:11,033 Hospital Name: Moore-Skinner Hospital/n
+                                            ETA to hospital: 73.94 minutes
+                                            Distance to hospital: 73.94 KM
+2025-07-19 02:41:11,033 Hospital Name: Wilson-Patel Hospital/n
+                                            ETA to hospital: 84.24 minutes
+                                            Distance to hospital: 84.24 KM
+2025-07-19 02:42:49,253 Do you want to continue using the application (yes or no): no ✅
+2025-07-19 02:42:49,253 👋 Goodbye James
+2025-07-19 02:42:50,506 Using selector: EpollSelector
+2025-07-19 02:43:05,207 User Key interactions: no
+2025-07-19 02:43:05,208 ⚠️ Invalid input. Please enter 1 or 2.
+
+2025-07-19 02:43:10,233 User Key interactions: 2
+2025-07-19 02:43:10,233 Exiting the program...
+2025-07-19 02:43:14,431 Using selector: EpollSelector
+2025-07-19 02:43:15,226 User Key interactions: 1
+2025-07-19 02:43:18,309 Log the user name: Eva
+2025-07-19 02:43:30,891 Log the user name location: mile2
+2025-07-19 02:43:30,891 Log the user name emergency severity: low
+2025-07-19 02:43:30,892 
+Hi Eva, searching for hospitals near mile2...
+2025-07-19 02:43:30,892 Emergency Severity: low
+2025-07-19 02:43:32,894 ✅ Returning the list of hospitals within the area based on the shortest ETA...
+2025-07-19 02:43:32,895 User:Eva, location:mile2, severity:low
+2025-07-19 02:43:32,970 This is the geolocator object that will be                     returned once whic will be used to get the lat and lon coordinates: <geopy.geocoders.nominatim.Nominatim object at 0x7b5b8dd468a0>
+2025-07-19 02:43:32,970 Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=mile2&format=json&limit=1
+2025-07-19 02:43:33,472 User current location cordinates: (-77.5670765, 37.384356)
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -78.56 minutes, distance in KM-78.56 to Baker, Kelly and Galloway Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -74.64 minutes, distance in KM-74.64 to Ortega-Cortez Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -77.82 minutes, distance in KM-77.82 to Carrillo, Lynch and Barajas Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -66.95 minutes, distance in KM-66.95 to Alvarado, Smith and Snyder Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -81.01 minutes, distance in KM-81.01 to Terry, Hughes and White Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -81.91 minutes, distance in KM-81.91 to Colon PLC Hospital facilty
+2025-07-19 02:43:33,531 final research result info for the user on hospital arrival: ETA -75.22 minutes, distance in KM-75.22 to Martin and Sons Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -82.05 minutes, distance in KM-82.05 to Jordan, Moran and Young Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -77.19 minutes, distance in KM-77.19 to Dickerson LLC Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -85.76 minutes, distance in KM-85.76 to Combs-Jenkins Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -68.37 minutes, distance in KM-68.37 to Schneider-Mcmahon Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -78.87 minutes, distance in KM-78.87 to Smith, Kane and Salazar Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -80.21 minutes, distance in KM-80.21 to Young-Miller Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -66.72 minutes, distance in KM-66.72 to Townsend, Hudson and Cox Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -70.73 minutes, distance in KM-70.73 to Patton, Jackson and Garza Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.65 minutes, distance in KM-79.65 to Robertson Ltd Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -67.39 minutes, distance in KM-67.39 to Atkinson, Lopez and Lewis Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -64.16 minutes, distance in KM-64.16 to Price-Garza Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -78.56 minutes, distance in KM-78.56 to Waters, Rodriguez and Hayden Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -70.63 minutes, distance in KM-70.63 to Potter Ltd Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -71.08 minutes, distance in KM-71.08 to Martinez Inc Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -77.31 minutes, distance in KM-77.31 to Davis, Michael and Campbell Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -82.42 minutes, distance in KM-82.42 to Leon-Sanford Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -75.92 minutes, distance in KM-75.92 to Buchanan Ltd Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -81.88 minutes, distance in KM-81.88 to Holland, Stevens and Fernandez Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -68.91 minutes, distance in KM-68.91 to Williams, Mcclain and Maxwell Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.67 minutes, distance in KM-79.67 to Morris Inc Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -76.65 minutes, distance in KM-76.65 to Thompson-Carson Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.59 minutes, distance in KM-79.59 to Green, Martinez and Smith Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -74.78 minutes, distance in KM-74.78 to Haney Inc Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.82 minutes, distance in KM-79.82 to Mcdonald-Moore Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -74.8 minutes, distance in KM-74.8 to Bridges PLC Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -84.71 minutes, distance in KM-84.71 to Clements Inc Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -69.6 minutes, distance in KM-69.6 to Powell PLC Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.21 minutes, distance in KM-79.21 to Harrison LLC Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -74.56 minutes, distance in KM-74.56 to Jones and Sons Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -70.07 minutes, distance in KM-70.07 to Ray-Calderon Hospital facilty
+2025-07-19 02:43:33,532 final research result info for the user on hospital arrival: ETA -79.41 minutes, distance in KM-79.41 to Mason-Bailey Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -72.83 minutes, distance in KM-72.83 to Rodriguez, Jones and Pineda Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -71.01 minutes, distance in KM-71.01 to Gonzalez-Stokes Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -68.98 minutes, distance in KM-68.98 to Bauer Inc Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -86.61 minutes, distance in KM-86.61 to Harding-Garcia Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -65.27 minutes, distance in KM-65.27 to Hansen, Henry and Peterson Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -79.66 minutes, distance in KM-79.66 to Hooper Group Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -73.65 minutes, distance in KM-73.65 to Gonzalez, Brown and Baker Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -76.14 minutes, distance in KM-76.14 to Deleon LLC Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -80.83 minutes, distance in KM-80.83 to Brooks-Henderson Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -72.19 minutes, distance in KM-72.19 to Anderson-Mcguire Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -68.67 minutes, distance in KM-68.67 to Dawson-Kim Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -75.35 minutes, distance in KM-75.35 to Davis, Williams and Lynch Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -77.05 minutes, distance in KM-77.05 to Perkins-Henry Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -72.9 minutes, distance in KM-72.9 to Walker-Hampton Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -63.52 minutes, distance in KM-63.52 to Brown-Navarro Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -69.9 minutes, distance in KM-69.9 to Bennett-Cruz Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -74.57 minutes, distance in KM-74.57 to Martinez, Hobbs and Clark Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -69.37 minutes, distance in KM-69.37 to Miller, Boone and Young Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -68.91 minutes, distance in KM-68.91 to Holmes Group Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -81.13 minutes, distance in KM-81.13 to Solis, Bolton and Shea Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -71.45 minutes, distance in KM-71.45 to Coleman-Chavez Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -81.49 minutes, distance in KM-81.49 to Burns, Dennis and Hernandez Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -82.52 minutes, distance in KM-82.52 to Williams-Peters Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -72.24 minutes, distance in KM-72.24 to Rowe-Mcknight Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -72.14 minutes, distance in KM-72.14 to Davis-Stuart Hospital facilty
+2025-07-19 02:43:33,533 final research result info for the user on hospital arrival: ETA -67.64 minutes, distance in KM-67.64 to Foster Inc Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -82.92 minutes, distance in KM-82.92 to Snyder Group Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -83.5 minutes, distance in KM-83.5 to Hart and Sons Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -82.3 minutes, distance in KM-82.3 to Freeman, Garcia and Dougherty Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -77.28 minutes, distance in KM-77.28 to Hanson-Heath Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -76.86 minutes, distance in KM-76.86 to Arnold-Williams Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -67.0 minutes, distance in KM-67.0 to Murphy, Sheppard and Maynard Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -77.4 minutes, distance in KM-77.4 to Powell, Coleman and Brown Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -77.03 minutes, distance in KM-77.03 to Castaneda-Davis Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -69.34 minutes, distance in KM-69.34 to Rowe LLC Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -70.21 minutes, distance in KM-70.21 to Jackson, Hull and Mcintosh Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -70.23 minutes, distance in KM-70.23 to Lowery, Banks and Price Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -84.63 minutes, distance in KM-84.63 to Davis LLC Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -70.91 minutes, distance in KM-70.91 to Miller-Long Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -69.52 minutes, distance in KM-69.52 to Kaufman-Sanchez Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -71.69 minutes, distance in KM-71.69 to Martinez, Simpson and Logan Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -75.75 minutes, distance in KM-75.75 to Richardson Ltd Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -78.58 minutes, distance in KM-78.58 to Rodriguez, Garcia and Owen Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -80.33 minutes, distance in KM-80.33 to Young, Garrett and Schneider Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -74.71 minutes, distance in KM-74.71 to Orr, Davis and Wong Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -77.33 minutes, distance in KM-77.33 to Reynolds PLC Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -80.15 minutes, distance in KM-80.15 to Owens, Nichols and Schultz Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -71.94 minutes, distance in KM-71.94 to Johnson, Wheeler and West Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -79.7 minutes, distance in KM-79.7 to Green-Richards Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -75.03 minutes, distance in KM-75.03 to Ashley, Atkinson and Wong Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -78.07 minutes, distance in KM-78.07 to White, Hinton and Pruitt Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -77.18 minutes, distance in KM-77.18 to Cordova-White Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -79.03 minutes, distance in KM-79.03 to Brown, Wilson and Garcia Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -76.93 minutes, distance in KM-76.93 to Cooper-Compton Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -69.9 minutes, distance in KM-69.9 to Warner PLC Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -83.88 minutes, distance in KM-83.88 to Little Group Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -71.6 minutes, distance in KM-71.6 to Mathews-Tucker Hospital facilty
+2025-07-19 02:43:33,534 final research result info for the user on hospital arrival: ETA -86.56 minutes, distance in KM-86.56 to Spencer-Duncan Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -72.84 minutes, distance in KM-72.84 to Scott-Huang Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -75.29 minutes, distance in KM-75.29 to Powell-Walsh Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -80.28 minutes, distance in KM-80.28 to Pierce, Smith and Mcknight Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -70.46 minutes, distance in KM-70.46 to Jones, Pineda and Mcknight Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -74.95 minutes, distance in KM-74.95 to Stewart LLC Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -78.04 minutes, distance in KM-78.04 to Coleman-George Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -82.6 minutes, distance in KM-82.6 to Lawrence-Hale Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -68.68 minutes, distance in KM-68.68 to Crawford and Sons Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -79.19 minutes, distance in KM-79.19 to Woods Group Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -80.04 minutes, distance in KM-80.04 to Arnold, Owen and Reynolds Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -81.83 minutes, distance in KM-81.83 to Haynes LLC Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -77.02 minutes, distance in KM-77.02 to Castillo-Bell Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -76.57 minutes, distance in KM-76.57 to Chapman-Blankenship Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -81.43 minutes, distance in KM-81.43 to White Inc Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -85.96 minutes, distance in KM-85.96 to Nelson Ltd Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -76.03 minutes, distance in KM-76.03 to Rhodes, Marsh and Johnson Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -81.0 minutes, distance in KM-81.0 to Watts-Nichols Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -83.71 minutes, distance in KM-83.71 to Martinez-Davis Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -67.56 minutes, distance in KM-67.56 to Jones, Martin and Foster Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -67.77 minutes, distance in KM-67.77 to White, Carpenter and Williams Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -79.35 minutes, distance in KM-79.35 to Ramos-Baxter Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -70.79 minutes, distance in KM-70.79 to Velez-Lawrence Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -65.46 minutes, distance in KM-65.46 to Bowman PLC Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -80.06 minutes, distance in KM-80.06 to Mahoney, Fleming and Nguyen Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -71.17 minutes, distance in KM-71.17 to Carney-Hensley Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -79.48 minutes, distance in KM-79.48 to Jacobs LLC Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -78.68 minutes, distance in KM-78.68 to Jimenez, Williams and Cobb Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -68.31 minutes, distance in KM-68.31 to Jordan, Leon and Morris Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -79.14 minutes, distance in KM-79.14 to Ward, Coleman and Hernandez Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -64.48 minutes, distance in KM-64.48 to West Group Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -72.45 minutes, distance in KM-72.45 to Edwards-Taylor Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -77.44 minutes, distance in KM-77.44 to Montgomery and Sons Hospital facilty
+2025-07-19 02:43:33,535 final research result info for the user on hospital arrival: ETA -81.67 minutes, distance in KM-81.67 to Roberts Inc Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -73.84 minutes, distance in KM-73.84 to Johnson, Robinson and Martin Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -68.05 minutes, distance in KM-68.05 to Davidson, Greene and Baldwin Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -79.77 minutes, distance in KM-79.77 to Smith, Baker and Evans Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -64.22 minutes, distance in KM-64.22 to Perez-Sanchez Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -68.05 minutes, distance in KM-68.05 to Clark, Dickerson and Perez Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -81.03 minutes, distance in KM-81.03 to Morris-Calderon Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -70.65 minutes, distance in KM-70.65 to Mason and Sons Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -81.06 minutes, distance in KM-81.06 to Rodriguez-Bryant Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -69.2 minutes, distance in KM-69.2 to Adams PLC Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -76.25 minutes, distance in KM-76.25 to Pena, Sandoval and Ferguson Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -71.83 minutes, distance in KM-71.83 to Chandler and Sons Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -69.38 minutes, distance in KM-69.38 to Short LLC Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -75.77 minutes, distance in KM-75.77 to Brown-Mcdowell Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -76.87 minutes, distance in KM-76.87 to Alexander, Phillips and Hogan Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -73.12 minutes, distance in KM-73.12 to Wallace PLC Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -84.34 minutes, distance in KM-84.34 to Parrish-Reid Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -64.72 minutes, distance in KM-64.72 to Moore and Sons Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -73.09 minutes, distance in KM-73.09 to Preston, Figueroa and Lewis Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -78.27 minutes, distance in KM-78.27 to Torres, Taylor and Mccarty Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -76.56 minutes, distance in KM-76.56 to Weaver-Cunningham Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -80.28 minutes, distance in KM-80.28 to Wilson-Brown Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -75.09 minutes, distance in KM-75.09 to Whitaker, Jones and Simon Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -66.03 minutes, distance in KM-66.03 to Graham-Carpenter Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -69.13 minutes, distance in KM-69.13 to Butler Inc Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -74.27 minutes, distance in KM-74.27 to Hogan Group Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -73.91 minutes, distance in KM-73.91 to Hodges LLC Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -72.09 minutes, distance in KM-72.09 to Haney Ltd Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -76.44 minutes, distance in KM-76.44 to Williamson, Carlson and Lopez Hospital facilty
+2025-07-19 02:43:33,536 final research result info for the user on hospital arrival: ETA -73.03 minutes, distance in KM-73.03 to Foster, Dillon and Bass Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -71.08 minutes, distance in KM-71.08 to Proctor, Khan and Garcia Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -73.59 minutes, distance in KM-73.59 to Whitaker-Young Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -75.48 minutes, distance in KM-75.48 to Clark-Lewis Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -76.08 minutes, distance in KM-76.08 to David-Raymond Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -68.7 minutes, distance in KM-68.7 to Farmer, Lewis and Hill Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -72.81 minutes, distance in KM-72.81 to Moore, Valencia and Harper Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -65.58 minutes, distance in KM-65.58 to Frazier, Rogers and Cochran Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -72.5 minutes, distance in KM-72.5 to Oconnell, Snow and Newton Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -63.52 minutes, distance in KM-63.52 to Kelly Group Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -78.33 minutes, distance in KM-78.33 to Farley-Krause Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -77.71 minutes, distance in KM-77.71 to Mcclain, Walker and Ramirez Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -73.54 minutes, distance in KM-73.54 to Diaz-Rush Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -79.82 minutes, distance in KM-79.82 to Fox LLC Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -70.62 minutes, distance in KM-70.62 to Crawford Group Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -76.34 minutes, distance in KM-76.34 to Pierce Ltd Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -70.62 minutes, distance in KM-70.62 to Sullivan Inc Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -71.88 minutes, distance in KM-71.88 to Morales Ltd Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -70.96 minutes, distance in KM-70.96 to Obrien, Chapman and Hunter Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -78.94 minutes, distance in KM-78.94 to Swanson, Wilkins and Phillips Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -77.92 minutes, distance in KM-77.92 to Little-Clark Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -71.66 minutes, distance in KM-71.66 to Nielsen-Brown Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -80.51 minutes, distance in KM-80.51 to Schaefer-Williams Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -71.68 minutes, distance in KM-71.68 to Gillespie-Tran Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -84.67 minutes, distance in KM-84.67 to Mitchell Group Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -66.06 minutes, distance in KM-66.06 to Mullen and Sons Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -78.06 minutes, distance in KM-78.06 to Hill and Sons Hospital facilty
+2025-07-19 02:43:33,537 final research result info for the user on hospital arrival: ETA -75.58 minutes, distance in KM-75.58 to Kane-Taylor Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -69.88 minutes, distance in KM-69.88 to Dean Group Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -73.36 minutes, distance in KM-73.36 to Murray and Sons Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -78.2 minutes, distance in KM-78.2 to Ferrell, Chen and Duncan Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -79.31 minutes, distance in KM-79.31 to Powers Group Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -75.29 minutes, distance in KM-75.29 to Proctor, Walker and Grant Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.88 minutes, distance in KM-74.88 to Allen-Montgomery Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -77.03 minutes, distance in KM-77.03 to Morton LLC Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -73.82 minutes, distance in KM-73.82 to Stout PLC Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.44 minutes, distance in KM-74.44 to Sanders Inc Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -80.94 minutes, distance in KM-80.94 to Barber, Taylor and Adams Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -71.42 minutes, distance in KM-71.42 to Flores-Lopez Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.34 minutes, distance in KM-74.34 to Williams PLC Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.01 minutes, distance in KM-74.01 to Morton Ltd Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.53 minutes, distance in KM-74.53 to Barrera and Sons Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -74.66 minutes, distance in KM-74.66 to Arroyo-Jones Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -72.45 minutes, distance in KM-72.45 to Pena, Griffith and Day Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -76.15 minutes, distance in KM-76.15 to Walker-Hoover Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -81.0 minutes, distance in KM-81.0 to Meyer, Osborn and Evans Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -77.7 minutes, distance in KM-77.7 to Krueger-Clark Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -77.47 minutes, distance in KM-77.47 to Valencia, Williams and Strickland Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -84.61 minutes, distance in KM-84.61 to Fisher Group Hospital facilty
+2025-07-19 02:43:33,538 final research result info for the user on hospital arrival: ETA -85.49 minutes, distance in KM-85.49 to Rodriguez and Sons Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -72.21 minutes, distance in KM-72.21 to Andrews Inc Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -74.74 minutes, distance in KM-74.74 to Leonard, Fields and Daniel Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -73.89 minutes, distance in KM-73.89 to Wright-Mitchell Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -72.35 minutes, distance in KM-72.35 to Taylor-Goodwin Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -72.85 minutes, distance in KM-72.85 to Harris-Vargas Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -79.48 minutes, distance in KM-79.48 to Hahn, Olson and Wang Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -68.15 minutes, distance in KM-68.15 to Lin Ltd Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -82.76 minutes, distance in KM-82.76 to Ramos-Wilson Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -80.43 minutes, distance in KM-80.43 to Johnson, Stanley and Farmer Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -76.98 minutes, distance in KM-76.98 to Estes-Villanueva Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -69.29 minutes, distance in KM-69.29 to Richards Ltd Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -70.41 minutes, distance in KM-70.41 to Valdez LLC Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -67.0 minutes, distance in KM-67.0 to Green-Thompson Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -71.25 minutes, distance in KM-71.25 to Jenkins, Warner and Levine Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -66.98 minutes, distance in KM-66.98 to Mckenzie Inc Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -63.74 minutes, distance in KM-63.74 to Myers, Wolfe and Coleman Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -65.66 minutes, distance in KM-65.66 to Wilson-Liu Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -77.47 minutes, distance in KM-77.47 to Jones, Norris and Little Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -64.59 minutes, distance in KM-64.59 to Owen, Suarez and Garcia Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -70.75 minutes, distance in KM-70.75 to Anderson-Smith Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -76.92 minutes, distance in KM-76.92 to Perry, Robinson and Jacobson Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -75.61 minutes, distance in KM-75.61 to Simmons-Butler Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -85.0 minutes, distance in KM-85.0 to Smith, Cohen and Ross Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -69.93 minutes, distance in KM-69.93 to Ward-Joseph Hospital facilty
+2025-07-19 02:43:33,539 final research result info for the user on hospital arrival: ETA -68.86 minutes, distance in KM-68.86 to Ford-Ryan Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -67.69 minutes, distance in KM-67.69 to Salazar-Bell Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -73.24 minutes, distance in KM-73.24 to Thomas, Pittman and Carroll Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -75.51 minutes, distance in KM-75.51 to Davis Group Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -84.42 minutes, distance in KM-84.42 to Jackson-Allen Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -75.14 minutes, distance in KM-75.14 to Johnson-Wu Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -78.88 minutes, distance in KM-78.88 to Ward-Stout Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -66.78 minutes, distance in KM-66.78 to Smith, Ellis and Waller Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -77.88 minutes, distance in KM-77.88 to Love-Gonzales Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -83.23 minutes, distance in KM-83.23 to Roy, Jones and Boyer Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -70.05 minutes, distance in KM-70.05 to Wise, Arnold and Fry Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -78.12 minutes, distance in KM-78.12 to Green, Jones and Gill Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -76.98 minutes, distance in KM-76.98 to Davis, Sanchez and Mclaughlin Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -79.97 minutes, distance in KM-79.97 to Martin, Mason and Ferrell Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -84.07 minutes, distance in KM-84.07 to Massey, Walker and Jimenez Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -73.36 minutes, distance in KM-73.36 to Ball-Merritt Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -77.13 minutes, distance in KM-77.13 to Kirby and Sons Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -77.58 minutes, distance in KM-77.58 to Bright, Gonzalez and Tucker Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -69.21 minutes, distance in KM-69.21 to Johnson, Fleming and Lewis Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -67.45 minutes, distance in KM-67.45 to Martinez, Sparks and Hines Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -69.49 minutes, distance in KM-69.49 to Wilson-Perkins Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -68.86 minutes, distance in KM-68.86 to Dodson, Daugherty and Lozano Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -67.14 minutes, distance in KM-67.14 to Copeland-Berg Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -76.5 minutes, distance in KM-76.5 to Banks, Parsons and Moore Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -75.05 minutes, distance in KM-75.05 to Harrington-Vaughn Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -80.74 minutes, distance in KM-80.74 to West PLC Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -78.97 minutes, distance in KM-78.97 to Black, Bentley and Long Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -71.29 minutes, distance in KM-71.29 to Pace, Gibson and Dominguez Hospital facilty
+2025-07-19 02:43:33,540 final research result info for the user on hospital arrival: ETA -72.18 minutes, distance in KM-72.18 to Benson, Camacho and Palmer Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -78.65 minutes, distance in KM-78.65 to Wilson Inc Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -85.53 minutes, distance in KM-85.53 to Sexton Inc Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -79.93 minutes, distance in KM-79.93 to Combs PLC Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -78.09 minutes, distance in KM-78.09 to Boyd-Thomas Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -62.89 minutes, distance in KM-62.89 to Sloan-Mahoney Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -65.31 minutes, distance in KM-65.31 to Webster, Vasquez and Ryan Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -74.62 minutes, distance in KM-74.62 to Maddox-Welch Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -75.27 minutes, distance in KM-75.27 to Farmer-Rodriguez Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -84.42 minutes, distance in KM-84.42 to Coffey, Jones and Smith Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -83.65 minutes, distance in KM-83.65 to Smith-Sparks Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -74.34 minutes, distance in KM-74.34 to Norris-Ramos Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -68.02 minutes, distance in KM-68.02 to Charles and Sons Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -75.89 minutes, distance in KM-75.89 to Bradshaw-Lawson Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -73.44 minutes, distance in KM-73.44 to Barker, Myers and Stephenson Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -75.18 minutes, distance in KM-75.18 to Hawkins, Scott and Horn Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -72.44 minutes, distance in KM-72.44 to Owens-Beck Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -70.91 minutes, distance in KM-70.91 to Reed-Orr Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -66.42 minutes, distance in KM-66.42 to Wang, Marshall and Conner Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -82.29 minutes, distance in KM-82.29 to Oneill, Burns and Dominguez Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -75.09 minutes, distance in KM-75.09 to Glenn, Dixon and Jones Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -74.02 minutes, distance in KM-74.02 to Wilson-Lewis Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -72.75 minutes, distance in KM-72.75 to Sullivan and Sons Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -72.38 minutes, distance in KM-72.38 to Jefferson-Williams Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -71.97 minutes, distance in KM-71.97 to Dean, Bush and Davis Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -84.67 minutes, distance in KM-84.67 to Williams-Williamson Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -65.56 minutes, distance in KM-65.56 to Wagner Group Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -80.67 minutes, distance in KM-80.67 to Holden-Ayala Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -67.16 minutes, distance in KM-67.16 to Huff, Goodwin and Fischer Hospital facilty
+2025-07-19 02:43:33,541 final research result info for the user on hospital arrival: ETA -79.39 minutes, distance in KM-79.39 to Hansen, Olson and Zimmerman Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -75.06 minutes, distance in KM-75.06 to Tran-Jensen Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -77.73 minutes, distance in KM-77.73 to Hernandez Group Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -71.21 minutes, distance in KM-71.21 to Anderson, Riggs and Thompson Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.49 minutes, distance in KM-74.49 to Walsh-Baker Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.67 minutes, distance in KM-74.67 to Love-Cooper Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.7 minutes, distance in KM-74.7 to Mckinney, Riley and Norris Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -66.6 minutes, distance in KM-66.6 to Davis, Graham and Fleming Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -78.49 minutes, distance in KM-78.49 to Greene, Smith and Reed Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -81.07 minutes, distance in KM-81.07 to Sanchez, Hill and Castro Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -68.11 minutes, distance in KM-68.11 to Ramirez, Smith and Cook Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -80.0 minutes, distance in KM-80.0 to Ray Ltd Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -83.3 minutes, distance in KM-83.3 to Cantrell, Rodriguez and Doyle Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -80.84 minutes, distance in KM-80.84 to Peterson, Hill and Myers Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -73.94 minutes, distance in KM-73.94 to Hall-Yang Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -72.56 minutes, distance in KM-72.56 to Mason-Martin Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -72.42 minutes, distance in KM-72.42 to Perry, Woods and Neal Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -76.92 minutes, distance in KM-76.92 to Hanson-Hess Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -70.2 minutes, distance in KM-70.2 to Morgan and Sons Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.98 minutes, distance in KM-74.98 to Spears Group Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -75.93 minutes, distance in KM-75.93 to Pierce-Gilbert Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -83.03 minutes, distance in KM-83.03 to Dillon Inc Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -71.08 minutes, distance in KM-71.08 to Beasley-White Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -83.48 minutes, distance in KM-83.48 to Rangel Group Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.32 minutes, distance in KM-74.32 to Mills Ltd Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -80.59 minutes, distance in KM-80.59 to Bridges-Stark Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -74.95 minutes, distance in KM-74.95 to Davidson-Dunn Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -72.34 minutes, distance in KM-72.34 to Hickman Ltd Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -78.31 minutes, distance in KM-78.31 to Sharp and Sons Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -84.06 minutes, distance in KM-84.06 to Gonzales, Simpson and Allen Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -75.02 minutes, distance in KM-75.02 to Duran-Miller Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -77.3 minutes, distance in KM-77.3 to Graham Inc Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -78.99 minutes, distance in KM-78.99 to Campbell Inc Hospital facilty
+2025-07-19 02:43:33,542 final research result info for the user on hospital arrival: ETA -79.95 minutes, distance in KM-79.95 to Roberts-Day Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -64.59 minutes, distance in KM-64.59 to Johnson-Miller Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -75.62 minutes, distance in KM-75.62 to Smith-Villarreal Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -72.65 minutes, distance in KM-72.65 to Gallagher Inc Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -73.71 minutes, distance in KM-73.71 to Marshall, Guzman and Dougherty Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -64.38 minutes, distance in KM-64.38 to Myers-Wu Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -65.99 minutes, distance in KM-65.99 to Joseph, Bell and Terry Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -67.68 minutes, distance in KM-67.68 to Hunter-Jones Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -70.84 minutes, distance in KM-70.84 to Richards, Jackson and Marks Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -86.38 minutes, distance in KM-86.38 to Landry-Galvan Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -67.43 minutes, distance in KM-67.43 to Ramirez, Gregory and Morgan Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -72.01 minutes, distance in KM-72.01 to Brown PLC Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -70.79 minutes, distance in KM-70.79 to Lewis, Gonzalez and Vasquez Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -79.23 minutes, distance in KM-79.23 to Lee, Henry and Thompson Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -81.91 minutes, distance in KM-81.91 to Clark-Shields Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -73.3 minutes, distance in KM-73.3 to Garza, Lang and Flores Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -70.91 minutes, distance in KM-70.91 to Taylor-Sanchez Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -69.87 minutes, distance in KM-69.87 to Wallace Ltd Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -76.76 minutes, distance in KM-76.76 to Bailey LLC Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -71.5 minutes, distance in KM-71.5 to Gates, Watson and Wells Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -81.34 minutes, distance in KM-81.34 to Tucker, Long and Jackson Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -70.4 minutes, distance in KM-70.4 to Schneider PLC Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -73.0 minutes, distance in KM-73.0 to Butler Group Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -78.67 minutes, distance in KM-78.67 to Horton Ltd Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -76.63 minutes, distance in KM-76.63 to Molina-Osborne Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -85.03 minutes, distance in KM-85.03 to Nunez, Campbell and Rollins Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -76.31 minutes, distance in KM-76.31 to Sullivan-Martin Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -79.8 minutes, distance in KM-79.8 to Noble LLC Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -75.29 minutes, distance in KM-75.29 to Palmer-Turner Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -74.95 minutes, distance in KM-74.95 to Woods, Taylor and Gould Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -72.64 minutes, distance in KM-72.64 to Howell and Sons Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -74.79 minutes, distance in KM-74.79 to Fisher, Hudson and Richardson Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -75.69 minutes, distance in KM-75.69 to Johnson, Floyd and Lawrence Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -76.17 minutes, distance in KM-76.17 to Stone and Sons Hospital facilty
+2025-07-19 02:43:33,543 final research result info for the user on hospital arrival: ETA -67.95 minutes, distance in KM-67.95 to Vasquez, Jones and Gill Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -72.9 minutes, distance in KM-72.9 to White, Morris and Foster Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -74.49 minutes, distance in KM-74.49 to Carter, Reyes and Thornton Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -77.78 minutes, distance in KM-77.78 to Shepard and Sons Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -69.12 minutes, distance in KM-69.12 to Gonzalez, Gomez and Stanley Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -66.64 minutes, distance in KM-66.64 to Nixon, Collins and Fernandez Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -80.68 minutes, distance in KM-80.68 to French, Buckley and Taylor Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -77.52 minutes, distance in KM-77.52 to Lawson-Norton Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -80.53 minutes, distance in KM-80.53 to Garcia Ltd Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -79.92 minutes, distance in KM-79.92 to Contreras-Werner Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -73.54 minutes, distance in KM-73.54 to Johnson, Walker and Jackson Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -76.55 minutes, distance in KM-76.55 to Vazquez-White Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -80.85 minutes, distance in KM-80.85 to Waller-Miller Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -69.97 minutes, distance in KM-69.97 to Chase-Dixon Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -68.92 minutes, distance in KM-68.92 to Watson Ltd Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -71.0 minutes, distance in KM-71.0 to Christensen, Pruitt and Valencia Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -66.84 minutes, distance in KM-66.84 to Little-Santiago Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -73.1 minutes, distance in KM-73.1 to Douglas LLC Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -68.58 minutes, distance in KM-68.58 to Ross, Sanchez and Johnson Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -72.82 minutes, distance in KM-72.82 to Singleton-Grant Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -81.78 minutes, distance in KM-81.78 to Rodriguez-Guerrero Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -69.86 minutes, distance in KM-69.86 to Wong PLC Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -77.26 minutes, distance in KM-77.26 to Romero-Miller Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -78.92 minutes, distance in KM-78.92 to Beard Ltd Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -64.59 minutes, distance in KM-64.59 to Clark and Sons Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -76.33 minutes, distance in KM-76.33 to Torres-Swanson Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -80.31 minutes, distance in KM-80.31 to Wilkins, King and Stanley Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -72.18 minutes, distance in KM-72.18 to Wang-Kelly Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -73.91 minutes, distance in KM-73.91 to Franco-Sparks Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -71.35 minutes, distance in KM-71.35 to Huffman and Sons Hospital facilty
+2025-07-19 02:43:33,544 final research result info for the user on hospital arrival: ETA -81.71 minutes, distance in KM-81.71 to Stone-Fisher Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -67.69 minutes, distance in KM-67.69 to Hanson, Dorsey and Bowman Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -74.31 minutes, distance in KM-74.31 to Cooper-Contreras Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -82.19 minutes, distance in KM-82.19 to Charles-Fowler Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -77.98 minutes, distance in KM-77.98 to Hall-Marks Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -76.05 minutes, distance in KM-76.05 to Mathis, Morrison and Contreras Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -77.21 minutes, distance in KM-77.21 to Russell-Dudley Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -71.56 minutes, distance in KM-71.56 to Neal, Lee and Cook Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -74.25 minutes, distance in KM-74.25 to Preston PLC Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -70.17 minutes, distance in KM-70.17 to Grimes, Zamora and Figueroa Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -86.17 minutes, distance in KM-86.17 to Robles-Anderson Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -70.49 minutes, distance in KM-70.49 to Sanchez, Hubbard and Huff Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -71.64 minutes, distance in KM-71.64 to Adkins-Harrison Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -74.88 minutes, distance in KM-74.88 to Ward Inc Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -69.77 minutes, distance in KM-69.77 to Singh, Alvarez and Perez Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -74.22 minutes, distance in KM-74.22 to Griffin Inc Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -73.31 minutes, distance in KM-73.31 to Lucero LLC Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -77.86 minutes, distance in KM-77.86 to Ramirez, Garrett and Roberson Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -63.0 minutes, distance in KM-63.0 to James, Fox and Johnson Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -69.04 minutes, distance in KM-69.04 to Anderson Inc Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -76.23 minutes, distance in KM-76.23 to Jones, Gallegos and Owens Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -71.12 minutes, distance in KM-71.12 to Lara-Green Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -77.24 minutes, distance in KM-77.24 to Franco-Herman Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -87.09 minutes, distance in KM-87.09 to Soto-Barber Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -63.9 minutes, distance in KM-63.9 to Hill, Robinson and Ortiz Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -66.56 minutes, distance in KM-66.56 to Juarez, Davis and Decker Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -79.93 minutes, distance in KM-79.93 to Brown-Walker Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -72.63 minutes, distance in KM-72.63 to Davis-Hart Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -72.23 minutes, distance in KM-72.23 to Lee-Rogers Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -78.49 minutes, distance in KM-78.49 to Francis, Armstrong and Padilla Hospital facilty
+2025-07-19 02:43:33,545 final research result info for the user on hospital arrival: ETA -80.47 minutes, distance in KM-80.47 to Guerrero PLC Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -69.63 minutes, distance in KM-69.63 to Mcguire-Webb Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -78.88 minutes, distance in KM-78.88 to Garcia Group Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -78.58 minutes, distance in KM-78.58 to Shaffer-Wong Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -74.63 minutes, distance in KM-74.63 to Hicks, Parker and Atkinson Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -73.19 minutes, distance in KM-73.19 to Clark, Moore and Guerra Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -67.77 minutes, distance in KM-67.77 to Palmer, Johnson and Reed Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -79.37 minutes, distance in KM-79.37 to Castillo, Gardner and Howard Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -78.43 minutes, distance in KM-78.43 to Ward, Johnson and Hernandez Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -66.41 minutes, distance in KM-66.41 to Bullock, Ibarra and Hansen Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -76.31 minutes, distance in KM-76.31 to Jones, Perez and Wilson Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -73.01 minutes, distance in KM-73.01 to Henderson, Bryan and King Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -77.41 minutes, distance in KM-77.41 to Hobbs, Ramirez and Clarke Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -70.75 minutes, distance in KM-70.75 to Graves-Jackson Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -69.87 minutes, distance in KM-69.87 to Kramer, Woods and Hobbs Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -71.72 minutes, distance in KM-71.72 to King-Jones Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -68.94 minutes, distance in KM-68.94 to Mclaughlin, Gentry and Frank Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -73.38 minutes, distance in KM-73.38 to Cook-Haley Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -73.02 minutes, distance in KM-73.02 to Spears, Nguyen and Ramos Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -77.68 minutes, distance in KM-77.68 to Dickson-Stewart Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -83.84 minutes, distance in KM-83.84 to Miller, Jones and Russell Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -71.42 minutes, distance in KM-71.42 to Rogers-Ferrell Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -74.96 minutes, distance in KM-74.96 to Cervantes-Nelson Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -63.03 minutes, distance in KM-63.03 to Montoya and Sons Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -79.49 minutes, distance in KM-79.49 to Rodriguez-Rodriguez Hospital facilty
+2025-07-19 02:43:33,546 final research result info for the user on hospital arrival: ETA -73.89 minutes, distance in KM-73.89 to Hess Group Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -67.75 minutes, distance in KM-67.75 to Warren-Hunt Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -70.66 minutes, distance in KM-70.66 to Evans and Sons Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -81.28 minutes, distance in KM-81.28 to Moore, Carson and Bailey Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -76.02 minutes, distance in KM-76.02 to Fowler, Bailey and Lucero Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -66.99 minutes, distance in KM-66.99 to Miles, Johnson and Baker Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -84.31 minutes, distance in KM-84.31 to Cruz-Brown Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -74.43 minutes, distance in KM-74.43 to Miller, Brown and Aguirre Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -69.94 minutes, distance in KM-69.94 to Murphy Inc Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -75.27 minutes, distance in KM-75.27 to Armstrong-Ellison Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -76.69 minutes, distance in KM-76.69 to Andrade PLC Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -77.24 minutes, distance in KM-77.24 to Jenkins, Hoffman and Rivera Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -73.85 minutes, distance in KM-73.85 to Taylor, Green and Turner Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -86.01 minutes, distance in KM-86.01 to Walker, Roach and Mckee Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -75.45 minutes, distance in KM-75.45 to Hernandez, Peterson and Perry Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -76.04 minutes, distance in KM-76.04 to Gamble PLC Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -69.78 minutes, distance in KM-69.78 to Ryan-Cooper Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -81.35 minutes, distance in KM-81.35 to Miller Ltd Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -77.2 minutes, distance in KM-77.2 to Goodwin, Franklin and Johnson Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -81.65 minutes, distance in KM-81.65 to Haynes Inc Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -76.43 minutes, distance in KM-76.43 to Lopez-Yang Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -74.04 minutes, distance in KM-74.04 to Wood-Hanson Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -78.12 minutes, distance in KM-78.12 to Cook Group Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -78.55 minutes, distance in KM-78.55 to Cox-Donaldson Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -65.83 minutes, distance in KM-65.83 to Steele, Harper and Martin Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -80.38 minutes, distance in KM-80.38 to Weaver-Johnson Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -72.08 minutes, distance in KM-72.08 to Acosta-Espinoza Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -81.56 minutes, distance in KM-81.56 to Patton and Sons Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -67.21 minutes, distance in KM-67.21 to Holmes-Thompson Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -82.49 minutes, distance in KM-82.49 to Tucker-White Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -70.72 minutes, distance in KM-70.72 to Rowland-Nunez Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -68.52 minutes, distance in KM-68.52 to Taylor, Fernandez and Macias Hospital facilty
+2025-07-19 02:43:33,547 final research result info for the user on hospital arrival: ETA -79.96 minutes, distance in KM-79.96 to Wilson-Salazar Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -67.6 minutes, distance in KM-67.6 to Conrad PLC Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -66.06 minutes, distance in KM-66.06 to Schwartz-Porter Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -72.56 minutes, distance in KM-72.56 to Sloan, Foley and Stark Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -82.29 minutes, distance in KM-82.29 to Hawkins-Richardson Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -67.67 minutes, distance in KM-67.67 to Wyatt-Johnson Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -78.0 minutes, distance in KM-78.0 to Meyer Inc Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -69.35 minutes, distance in KM-69.35 to Price Inc Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -68.87 minutes, distance in KM-68.87 to Chandler Group Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -66.8 minutes, distance in KM-66.8 to Miller, Deleon and Singh Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -75.44 minutes, distance in KM-75.44 to Villanueva Ltd Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -80.0 minutes, distance in KM-80.0 to Park-Ford Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -70.53 minutes, distance in KM-70.53 to Phillips, Allen and Flores Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -71.2 minutes, distance in KM-71.2 to Freeman, Jefferson and Jones Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -79.62 minutes, distance in KM-79.62 to Goodman-Jackson Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -77.33 minutes, distance in KM-77.33 to Francis, Carroll and Willis Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -82.61 minutes, distance in KM-82.61 to Cook-Ellis Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -71.8 minutes, distance in KM-71.8 to Hughes, Collins and Murray Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -75.89 minutes, distance in KM-75.89 to Rogers PLC Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -84.09 minutes, distance in KM-84.09 to Walsh-Dunn Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -68.67 minutes, distance in KM-68.67 to Lewis, Smith and Wagner Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -76.13 minutes, distance in KM-76.13 to Tran-Daugherty Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -77.46 minutes, distance in KM-77.46 to Curtis-Anderson Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -78.23 minutes, distance in KM-78.23 to Romero Inc Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -83.9 minutes, distance in KM-83.9 to Cox, Goodwin and Hudson Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -75.49 minutes, distance in KM-75.49 to Jones, Parrish and Hoffman Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -78.41 minutes, distance in KM-78.41 to Turner, Gonzales and King Hospital facilty
+2025-07-19 02:43:33,548 final research result info for the user on hospital arrival: ETA -84.74 minutes, distance in KM-84.74 to Hernandez-Clay Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -82.19 minutes, distance in KM-82.19 to Ortega-Mayer Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -72.04 minutes, distance in KM-72.04 to Gonzalez-Lewis Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -69.57 minutes, distance in KM-69.57 to Diaz-Baker Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -69.06 minutes, distance in KM-69.06 to Harding-House Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -76.66 minutes, distance in KM-76.66 to Stokes LLC Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -78.76 minutes, distance in KM-78.76 to Velazquez LLC Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -75.16 minutes, distance in KM-75.16 to Schmitt-Brown Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -69.45 minutes, distance in KM-69.45 to Smith, Mills and Guerrero Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -76.47 minutes, distance in KM-76.47 to Taylor, Baxter and Scott Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -65.79 minutes, distance in KM-65.79 to Mcdaniel, Gonzalez and Anderson Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -76.7 minutes, distance in KM-76.7 to Webb-Brown Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -72.2 minutes, distance in KM-72.2 to Everett LLC Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -73.16 minutes, distance in KM-73.16 to Adams Inc Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -80.23 minutes, distance in KM-80.23 to Coleman-English Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -74.64 minutes, distance in KM-74.64 to Garcia, Hall and Roth Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -68.44 minutes, distance in KM-68.44 to Barnes, Rhodes and Hall Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -80.24 minutes, distance in KM-80.24 to Todd-Baker Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -77.9 minutes, distance in KM-77.9 to Nguyen-Evans Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -76.33 minutes, distance in KM-76.33 to Hubbard, Parker and Cooper Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -83.53 minutes, distance in KM-83.53 to Boyer-Andrews Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -75.8 minutes, distance in KM-75.8 to Allen-Arnold Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -77.46 minutes, distance in KM-77.46 to Ramirez-Mack Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -78.73 minutes, distance in KM-78.73 to Lopez-Rowe Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -74.58 minutes, distance in KM-74.58 to Fox-Davis Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -87.12 minutes, distance in KM-87.12 to Leonard-Johnson Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -72.53 minutes, distance in KM-72.53 to Fowler-Jackson Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -72.47 minutes, distance in KM-72.47 to York-Gonzalez Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -81.63 minutes, distance in KM-81.63 to Diaz-Fisher Hospital facilty
+2025-07-19 02:43:33,549 final research result info for the user on hospital arrival: ETA -80.4 minutes, distance in KM-80.4 to Stephenson-Jacobson Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -76.76 minutes, distance in KM-76.76 to Krause, House and Short Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -81.29 minutes, distance in KM-81.29 to Case, Bright and Ramirez Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -78.02 minutes, distance in KM-78.02 to Ruiz Inc Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -71.78 minutes, distance in KM-71.78 to Mcclain and Sons Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -75.25 minutes, distance in KM-75.25 to Adams Ltd Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -77.14 minutes, distance in KM-77.14 to Flores, Gonzales and Morales Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -75.78 minutes, distance in KM-75.78 to Hanna and Sons Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -71.71 minutes, distance in KM-71.71 to Martin-Williams Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -76.08 minutes, distance in KM-76.08 to Byrd-Gonzalez Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -73.29 minutes, distance in KM-73.29 to Ayala, Turner and Stuart Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -70.56 minutes, distance in KM-70.56 to Hernandez-Hawkins Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -78.48 minutes, distance in KM-78.48 to Barber and Sons Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -87.34 minutes, distance in KM-87.34 to Orr PLC Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -78.98 minutes, distance in KM-78.98 to Lewis, Williams and Harris Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -79.79 minutes, distance in KM-79.79 to Wall-Williams Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -70.86 minutes, distance in KM-70.86 to Becker-Adams Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -67.87 minutes, distance in KM-67.87 to Reyes-Young Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -74.95 minutes, distance in KM-74.95 to Garcia, Heath and Singleton Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -70.52 minutes, distance in KM-70.52 to Ramirez and Sons Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -82.23 minutes, distance in KM-82.23 to Brewer and Sons Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -76.44 minutes, distance in KM-76.44 to Hicks-Ingram Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -79.59 minutes, distance in KM-79.59 to Brown, Thompson and Hall Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -74.61 minutes, distance in KM-74.61 to Knight, Morgan and Hawkins Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -79.35 minutes, distance in KM-79.35 to Thompson-Taylor Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -75.55 minutes, distance in KM-75.55 to Ibarra, Harris and Butler Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -66.81 minutes, distance in KM-66.81 to Edwards Group Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -65.84 minutes, distance in KM-65.84 to Pittman, Fields and Hamilton Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -73.81 minutes, distance in KM-73.81 to Smith Ltd Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -72.93 minutes, distance in KM-72.93 to Sanchez, Johnson and Nunez Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -72.41 minutes, distance in KM-72.41 to Wells, Tucker and Wright Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -76.09 minutes, distance in KM-76.09 to Hampton-Ryan Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -68.37 minutes, distance in KM-68.37 to Cooper, Carter and Gibson Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -71.08 minutes, distance in KM-71.08 to Becker, Duncan and Mccoy Hospital facilty
+2025-07-19 02:43:33,550 final research result info for the user on hospital arrival: ETA -76.32 minutes, distance in KM-76.32 to Reese, James and Taylor Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -71.68 minutes, distance in KM-71.68 to Frank, Watkins and Garrett Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -76.76 minutes, distance in KM-76.76 to Cooper Group Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -71.85 minutes, distance in KM-71.85 to Bell-Mcintyre Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -75.0 minutes, distance in KM-75.0 to Rice-Castillo Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -67.62 minutes, distance in KM-67.62 to Rosales-Dixon Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -75.8 minutes, distance in KM-75.8 to Roach Ltd Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -68.54 minutes, distance in KM-68.54 to Morris-Carney Hospital facilty
+2025-07-19 02:43:33,551 final research result info for the user on hospital arrival: ETA -79.72 minutes, distance in KM-79.72 to Banks-Guerrero Hospital facilty
+2025-07-19 02:43:33,551 Hospital Name: Sloan-Mahoney Hospital/n
+                                            ETA to hospital: 62.89 minutes
+                                            Distance to hospital: 62.89 KM
+2025-07-19 02:43:33,551 Hospital Name: James, Fox and Johnson Hospital/n
+                                            ETA to hospital: 63.0 minutes
+                                            Distance to hospital: 63.0 KM
+2025-07-19 02:43:33,551 Hospital Name: Montoya and Sons Hospital/n
+                                            ETA to hospital: 63.03 minutes
+                                            Distance to hospital: 63.03 KM
+2025-07-19 02:43:33,551 Hospital Name: Brown-Navarro Hospital/n
+                                            ETA to hospital: 63.52 minutes
+                                            Distance to hospital: 63.52 KM
+2025-07-19 02:43:33,552 Hospital Name: Kelly Group Hospital/n
+                                            ETA to hospital: 63.52 minutes
+                                            Distance to hospital: 63.52 KM
+2025-07-19 02:43:57,228 Do you want to continue using the application (yes or no): no ✅
+2025-07-19 02:43:57,228 👋 Goodbye Eva
+2025-07-19 02:43:59,066 Using selector: EpollSelector
+2025-07-19 02:44:02,279 User Key interactions: 1
+2025-07-19 02:44:04,145 Log the user name: Eva
+2025-07-19 02:44:15,185 Log the user name location: festac
+2025-07-19 02:44:15,185 Log the user name emergency severity: low
+2025-07-19 02:44:15,185 
+Hi Eva, searching for hospitals near festac...
+2025-07-19 02:44:15,185 Emergency Severity: low
+2025-07-19 02:44:17,187 ✅ Returning the list of hospitals within the area based on the shortest ETA...
+2025-07-19 02:44:17,188 User:Eva, location:festac, severity:low
+2025-07-19 02:44:17,231 This is the geolocator object that will be                     returned once whic will be used to get the lat and lon coordinates: <geopy.geocoders.nominatim.Nominatim object at 0x7bc6d19420f0>
+2025-07-19 02:44:17,231 Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=festac&format=json&limit=1
+2025-07-19 02:44:17,670 User current location cordinates: (3.8956865, 7.4026583)
+2025-07-19 02:44:17,701 final research result info for the user on hospital arrival: ETA -9.3 minutes, distance in KM-9.3 to Baker, Kelly and Galloway Hospital facilty
+2025-07-19 02:44:17,701 final research result info for the user on hospital arrival: ETA -9.83 minutes, distance in KM-9.83 to Ortega-Cortez Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -3.33 minutes, distance in KM-3.33 to Carrillo, Lynch and Barajas Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -11.86 minutes, distance in KM-11.86 to Alvarado, Smith and Snyder Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -4.1 minutes, distance in KM-4.1 to Terry, Hughes and White Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -4.81 minutes, distance in KM-4.81 to Colon PLC Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -3.97 minutes, distance in KM-3.97 to Martin and Sons Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -5.24 minutes, distance in KM-5.24 to Jordan, Moran and Young Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -3.34 minutes, distance in KM-3.34 to Dickerson LLC Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -8.24 minutes, distance in KM-8.24 to Combs-Jenkins Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -10.46 minutes, distance in KM-10.46 to Schneider-Mcmahon Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -5.68 minutes, distance in KM-5.68 to Smith, Kane and Salazar Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -5.22 minutes, distance in KM-5.22 to Young-Miller Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -12.65 minutes, distance in KM-12.65 to Townsend, Hudson and Cox Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -8.81 minutes, distance in KM-8.81 to Patton, Jackson and Garza Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -7.93 minutes, distance in KM-7.93 to Robertson Ltd Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -13.01 minutes, distance in KM-13.01 to Atkinson, Lopez and Lewis Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -14.29 minutes, distance in KM-14.29 to Price-Garza Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -8.59 minutes, distance in KM-8.59 to Waters, Rodriguez and Hayden Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -7.43 minutes, distance in KM-7.43 to Potter Ltd Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -7.39 minutes, distance in KM-7.39 to Martinez Inc Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -2.16 minutes, distance in KM-2.16 to Davis, Michael and Campbell Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -6.07 minutes, distance in KM-6.07 to Leon-Sanford Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -3.91 minutes, distance in KM-3.91 to Buchanan Ltd Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -5.12 minutes, distance in KM-5.12 to Holland, Stevens and Fernandez Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -10.26 minutes, distance in KM-10.26 to Williams, Mcclain and Maxwell Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -9.2 minutes, distance in KM-9.2 to Morris Inc Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -1.52 minutes, distance in KM-1.52 to Thompson-Carson Hospital facilty
+2025-07-19 02:44:17,702 final research result info for the user on hospital arrival: ETA -6.67 minutes, distance in KM-6.67 to Green, Martinez and Smith Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -4.04 minutes, distance in KM-4.04 to Haney Inc Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -4.63 minutes, distance in KM-4.63 to Mcdonald-Moore Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -6.57 minutes, distance in KM-6.57 to Bridges PLC Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -7.25 minutes, distance in KM-7.25 to Clements Inc Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -8.89 minutes, distance in KM-8.89 to Powell PLC Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -3.76 minutes, distance in KM-3.76 to Harrison LLC Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -7.39 minutes, distance in KM-7.39 to Jones and Sons Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -10.58 minutes, distance in KM-10.58 to Ray-Calderon Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -3.41 minutes, distance in KM-3.41 to Mason-Bailey Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -5.72 minutes, distance in KM-5.72 to Rodriguez, Jones and Pineda Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -7.64 minutes, distance in KM-7.64 to Gonzalez-Stokes Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -9.07 minutes, distance in KM-9.07 to Bauer Inc Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -9.59 minutes, distance in KM-9.59 to Harding-Garcia Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -13.06 minutes, distance in KM-13.06 to Hansen, Henry and Peterson Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -2.4 minutes, distance in KM-2.4 to Hooper Group Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -8.68 minutes, distance in KM-8.68 to Gonzalez, Brown and Baker Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -1.72 minutes, distance in KM-1.72 to Deleon LLC Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -5.99 minutes, distance in KM-5.99 to Brooks-Henderson Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -6.15 minutes, distance in KM-6.15 to Anderson-Mcguire Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -9.38 minutes, distance in KM-9.38 to Dawson-Kim Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -6.88 minutes, distance in KM-6.88 to Davis, Williams and Lynch Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -0.8 minutes, distance in KM-0.8 to Perkins-Henry Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -9.74 minutes, distance in KM-9.74 to Walker-Hampton Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -14.76 minutes, distance in KM-14.76 to Brown-Navarro Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -8.6 minutes, distance in KM-8.6 to Bennett-Cruz Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -8.33 minutes, distance in KM-8.33 to Martinez, Hobbs and Clark Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -11.71 minutes, distance in KM-11.71 to Miller, Boone and Young Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -11.38 minutes, distance in KM-11.38 to Holmes Group Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -4.25 minutes, distance in KM-4.25 to Solis, Bolton and Shea Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -6.81 minutes, distance in KM-6.81 to Coleman-Chavez Hospital facilty
+2025-07-19 02:44:17,703 final research result info for the user on hospital arrival: ETA -6.5 minutes, distance in KM-6.5 to Burns, Dennis and Hernandez Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -5.46 minutes, distance in KM-5.46 to Williams-Peters Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -8.73 minutes, distance in KM-8.73 to Rowe-Mcknight Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -7.74 minutes, distance in KM-7.74 to Davis-Stuart Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -11.43 minutes, distance in KM-11.43 to Foster Inc Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -6.82 minutes, distance in KM-6.82 to Snyder Group Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -5.96 minutes, distance in KM-5.96 to Hart and Sons Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -4.9 minutes, distance in KM-4.9 to Freeman, Garcia and Dougherty Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -8.59 minutes, distance in KM-8.59 to Hanson-Heath Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -11.37 minutes, distance in KM-11.37 to Arnold-Williams Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -11.12 minutes, distance in KM-11.12 to Murphy, Sheppard and Maynard Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -8.76 minutes, distance in KM-8.76 to Powell, Coleman and Brown Hospital facilty
+2025-07-19 02:44:17,704 final research result info for the user on hospital arrival: ETA -7.03 minutes, distance in KM-7.03 to Castaneda-Davis Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -11.44 minutes, distance in KM-11.44 to Rowe LLC Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -11.18 minutes, distance in KM-11.18 to Jackson, Hull and Mcintosh Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -8.09 minutes, distance in KM-8.09 to Lowery, Banks and Price Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -8.45 minutes, distance in KM-8.45 to Davis LLC Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -10.29 minutes, distance in KM-10.29 to Miller-Long Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -9.35 minutes, distance in KM-9.35 to Kaufman-Sanchez Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -6.29 minutes, distance in KM-6.29 to Martinez, Simpson and Logan Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -10.11 minutes, distance in KM-10.11 to Richardson Ltd Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -3.38 minutes, distance in KM-3.38 to Rodriguez, Garcia and Owen Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -2.61 minutes, distance in KM-2.61 to Young, Garrett and Schneider Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -9.05 minutes, distance in KM-9.05 to Orr, Davis and Wong Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -1.59 minutes, distance in KM-1.59 to Reynolds PLC Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -8.81 minutes, distance in KM-8.81 to Owens, Nichols and Schultz Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -10.04 minutes, distance in KM-10.04 to Johnson, Wheeler and West Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -4.36 minutes, distance in KM-4.36 to Green-Richards Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -11.77 minutes, distance in KM-11.77 to Ashley, Atkinson and Wong Hospital facilty
+2025-07-19 02:44:17,705 final research result info for the user on hospital arrival: ETA -4.18 minutes, distance in KM-4.18 to White, Hinton and Pruitt Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -1.93 minutes, distance in KM-1.93 to Cordova-White Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -2.49 minutes, distance in KM-2.49 to Brown, Wilson and Garcia Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -3.63 minutes, distance in KM-3.63 to Cooper-Compton Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -9.28 minutes, distance in KM-9.28 to Warner PLC Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -8.19 minutes, distance in KM-8.19 to Little Group Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -8.39 minutes, distance in KM-8.39 to Mathews-Tucker Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -9.44 minutes, distance in KM-9.44 to Spencer-Duncan Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -5.3 minutes, distance in KM-5.3 to Scott-Huang Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -3.11 minutes, distance in KM-3.11 to Powell-Walsh Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -7.41 minutes, distance in KM-7.41 to Pierce, Smith and Mcknight Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -7.55 minutes, distance in KM-7.55 to Jones, Pineda and Mcknight Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -11.21 minutes, distance in KM-11.21 to Stewart LLC Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -7.39 minutes, distance in KM-7.39 to Coleman-George Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -6.43 minutes, distance in KM-6.43 to Lawrence-Hale Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -12.87 minutes, distance in KM-12.87 to Crawford and Sons Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -5.46 minutes, distance in KM-5.46 to Woods Group Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -5.82 minutes, distance in KM-5.82 to Arnold, Owen and Reynolds Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -4.18 minutes, distance in KM-4.18 to Haynes LLC Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -5.7 minutes, distance in KM-5.7 to Castillo-Bell Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -6.38 minutes, distance in KM-6.38 to Chapman-Blankenship Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -4.01 minutes, distance in KM-4.01 to White Inc Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -8.64 minutes, distance in KM-8.64 to Nelson Ltd Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -10.07 minutes, distance in KM-10.07 to Rhodes, Marsh and Johnson Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -3.36 minutes, distance in KM-3.36 to Watts-Nichols Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -6.31 minutes, distance in KM-6.31 to Martinez-Davis Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -10.56 minutes, distance in KM-10.56 to Jones, Martin and Foster Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -10.6 minutes, distance in KM-10.6 to White, Carpenter and Williams Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -1.79 minutes, distance in KM-1.79 to Ramos-Baxter Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -7.69 minutes, distance in KM-7.69 to Velez-Lawrence Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -12.91 minutes, distance in KM-12.91 to Bowman PLC Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -8.81 minutes, distance in KM-8.81 to Mahoney, Fleming and Nguyen Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -8.99 minutes, distance in KM-8.99 to Carney-Hensley Hospital facilty
+2025-07-19 02:44:17,706 final research result info for the user on hospital arrival: ETA -2.09 minutes, distance in KM-2.09 to Jacobs LLC Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -7.62 minutes, distance in KM-7.62 to Jimenez, Williams and Cobb Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.18 minutes, distance in KM-10.18 to Jordan, Leon and Morris Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -9.12 minutes, distance in KM-9.12 to Ward, Coleman and Hernandez Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -14.16 minutes, distance in KM-14.16 to West Group Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -5.99 minutes, distance in KM-5.99 to Edwards-Taylor Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -3.0 minutes, distance in KM-3.0 to Montgomery and Sons Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -6.86 minutes, distance in KM-6.86 to Roberts Inc Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -4.4 minutes, distance in KM-4.4 to Johnson, Robinson and Martin Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.84 minutes, distance in KM-10.84 to Davidson, Greene and Baldwin Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -4.41 minutes, distance in KM-4.41 to Smith, Baker and Evans Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -14.05 minutes, distance in KM-14.05 to Perez-Sanchez Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.09 minutes, distance in KM-10.09 to Clark, Dickerson and Perez Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -5.8 minutes, distance in KM-5.8 to Morris-Calderon Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -7.56 minutes, distance in KM-7.56 to Mason and Sons Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -4.3 minutes, distance in KM-4.3 to Rodriguez-Bryant Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.14 minutes, distance in KM-10.14 to Adams PLC Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -9.15 minutes, distance in KM-9.15 to Pena, Sandoval and Ferguson Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -6.18 minutes, distance in KM-6.18 to Chandler and Sons Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.95 minutes, distance in KM-8.95 to Short LLC Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.6 minutes, distance in KM-10.6 to Brown-Mcdowell Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.85 minutes, distance in KM-8.85 to Alexander, Phillips and Hogan Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -5.86 minutes, distance in KM-5.86 to Wallace PLC Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -7.45 minutes, distance in KM-7.45 to Parrish-Reid Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -13.44 minutes, distance in KM-13.44 to Moore and Sons Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.54 minutes, distance in KM-8.54 to Preston, Figueroa and Lewis Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.19 minutes, distance in KM-8.19 to Torres, Taylor and Mccarty Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -10.87 minutes, distance in KM-10.87 to Weaver-Cunningham Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -2.79 minutes, distance in KM-2.79 to Wilson-Brown Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.75 minutes, distance in KM-8.75 to Whitaker, Jones and Simon Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -12.12 minutes, distance in KM-12.12 to Graham-Carpenter Hospital facilty
+2025-07-19 02:44:17,707 final research result info for the user on hospital arrival: ETA -8.92 minutes, distance in KM-8.92 to Butler Inc Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -7.4 minutes, distance in KM-7.4 to Hogan Group Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -6.06 minutes, distance in KM-6.06 to Hodges LLC Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.54 minutes, distance in KM-10.54 to Haney Ltd Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -3.17 minutes, distance in KM-3.17 to Williamson, Carlson and Lopez Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -5.49 minutes, distance in KM-5.49 to Foster, Dillon and Bass Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -8.72 minutes, distance in KM-8.72 to Proctor, Khan and Garcia Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -7.88 minutes, distance in KM-7.88 to Whitaker-Young Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -8.6 minutes, distance in KM-8.6 to Clark-Lewis Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -2.28 minutes, distance in KM-2.28 to David-Raymond Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -12.25 minutes, distance in KM-12.25 to Farmer, Lewis and Hill Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.54 minutes, distance in KM-10.54 to Moore, Valencia and Harper Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -12.84 minutes, distance in KM-12.84 to Frazier, Rogers and Cochran Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.85 minutes, distance in KM-10.85 to Oconnell, Snow and Newton Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -15.0 minutes, distance in KM-15.0 to Kelly Group Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -7.83 minutes, distance in KM-7.83 to Farley-Krause Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -0.18 minutes, distance in KM-0.18 to Mcclain, Walker and Ramirez Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.25 minutes, distance in KM-10.25 to Diaz-Rush Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -4.22 minutes, distance in KM-4.22 to Fox LLC Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -9.44 minutes, distance in KM-9.44 to Crawford Group Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -9.99 minutes, distance in KM-9.99 to Pierce Ltd Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.14 minutes, distance in KM-10.14 to Sullivan Inc Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -6.62 minutes, distance in KM-6.62 to Morales Ltd Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -11.02 minutes, distance in KM-11.02 to Obrien, Chapman and Hunter Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -6.85 minutes, distance in KM-6.85 to Swanson, Wilkins and Phillips Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -6.29 minutes, distance in KM-6.29 to Little-Clark Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -6.86 minutes, distance in KM-6.86 to Nielsen-Brown Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -8.72 minutes, distance in KM-8.72 to Schaefer-Williams Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -7.51 minutes, distance in KM-7.51 to Gillespie-Tran Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -7.28 minutes, distance in KM-7.28 to Mitchell Group Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -12.09 minutes, distance in KM-12.09 to Mullen and Sons Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -0.27 minutes, distance in KM-0.27 to Hill and Sons Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -9.55 minutes, distance in KM-9.55 to Kane-Taylor Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -10.26 minutes, distance in KM-10.26 to Dean Group Hospital facilty
+2025-07-19 02:44:17,708 final research result info for the user on hospital arrival: ETA -9.39 minutes, distance in KM-9.39 to Murray and Sons Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.69 minutes, distance in KM-6.69 to Ferrell, Chen and Duncan Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.88 minutes, distance in KM-6.88 to Powers Group Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -9.24 minutes, distance in KM-9.24 to Proctor, Walker and Grant Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -12.03 minutes, distance in KM-12.03 to Allen-Montgomery Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -9.34 minutes, distance in KM-9.34 to Morton LLC Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -4.66 minutes, distance in KM-4.66 to Stout PLC Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -4.05 minutes, distance in KM-4.05 to Sanders Inc Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -3.29 minutes, distance in KM-3.29 to Barber, Taylor and Adams Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -9.43 minutes, distance in KM-9.43 to Flores-Lopez Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -3.67 minutes, distance in KM-3.67 to Williams PLC Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -8.15 minutes, distance in KM-8.15 to Morton Ltd Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -3.43 minutes, distance in KM-3.43 to Barrera and Sons Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -4.47 minutes, distance in KM-4.47 to Arroyo-Jones Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -9.25 minutes, distance in KM-9.25 to Pena, Griffith and Day Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -2.81 minutes, distance in KM-2.81 to Walker-Hoover Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.34 minutes, distance in KM-6.34 to Meyer, Osborn and Evans Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -3.53 minutes, distance in KM-3.53 to Krueger-Clark Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.59 minutes, distance in KM-6.59 to Valencia, Williams and Strickland Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -7.07 minutes, distance in KM-7.07 to Fisher Group Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -7.99 minutes, distance in KM-7.99 to Rodriguez and Sons Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.28 minutes, distance in KM-6.28 to Andrews Inc Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -7.68 minutes, distance in KM-7.68 to Leonard, Fields and Daniel Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -10.4 minutes, distance in KM-10.4 to Wright-Mitchell Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -8.49 minutes, distance in KM-8.49 to Taylor-Goodwin Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.67 minutes, distance in KM-6.67 to Harris-Vargas Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -8.59 minutes, distance in KM-8.59 to Hahn, Olson and Wang Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -10.43 minutes, distance in KM-10.43 to Lin Ltd Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.07 minutes, distance in KM-6.07 to Ramos-Wilson Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -3.53 minutes, distance in KM-3.53 to Johnson, Stanley and Farmer Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -6.76 minutes, distance in KM-6.76 to Estes-Villanueva Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -8.75 minutes, distance in KM-8.75 to Richards Ltd Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -8.21 minutes, distance in KM-8.21 to Valdez LLC Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -11.22 minutes, distance in KM-11.22 to Green-Thompson Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -9.0 minutes, distance in KM-9.0 to Jenkins, Warner and Levine Hospital facilty
+2025-07-19 02:44:17,709 final research result info for the user on hospital arrival: ETA -11.13 minutes, distance in KM-11.13 to Mckenzie Inc Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -14.57 minutes, distance in KM-14.57 to Myers, Wolfe and Coleman Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -12.93 minutes, distance in KM-12.93 to Wilson-Liu Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -7.89 minutes, distance in KM-7.89 to Jones, Norris and Little Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -13.73 minutes, distance in KM-13.73 to Owen, Suarez and Garcia Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -10.3 minutes, distance in KM-10.3 to Anderson-Smith Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -8.77 minutes, distance in KM-8.77 to Perry, Robinson and Jacobson Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -9.06 minutes, distance in KM-9.06 to Simmons-Butler Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -8.01 minutes, distance in KM-8.01 to Smith, Cohen and Ross Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -12.25 minutes, distance in KM-12.25 to Ward-Joseph Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -9.26 minutes, distance in KM-9.26 to Ford-Ryan Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -11.08 minutes, distance in KM-11.08 to Salazar-Bell Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -10.41 minutes, distance in KM-10.41 to Thomas, Pittman and Carroll Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -6.39 minutes, distance in KM-6.39 to Davis Group Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -6.95 minutes, distance in KM-6.95 to Jackson-Allen Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -5.66 minutes, distance in KM-5.66 to Johnson-Wu Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -5.26 minutes, distance in KM-5.26 to Ward-Stout Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -12.43 minutes, distance in KM-12.43 to Smith, Ellis and Waller Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -10.55 minutes, distance in KM-10.55 to Love-Gonzales Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -5.61 minutes, distance in KM-5.61 to Roy, Jones and Boyer Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -9.79 minutes, distance in KM-9.79 to Wise, Arnold and Fry Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -1.62 minutes, distance in KM-1.62 to Green, Jones and Gill Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -1.86 minutes, distance in KM-1.86 to Davis, Sanchez and Mclaughlin Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -7.24 minutes, distance in KM-7.24 to Martin, Mason and Ferrell Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -6.75 minutes, distance in KM-6.75 to Massey, Walker and Jimenez Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -8.57 minutes, distance in KM-8.57 to Ball-Merritt Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -1.55 minutes, distance in KM-1.55 to Kirby and Sons Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -5.82 minutes, distance in KM-5.82 to Bright, Gonzalez and Tucker Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -9.45 minutes, distance in KM-9.45 to Johnson, Fleming and Lewis Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -10.96 minutes, distance in KM-10.96 to Martinez, Sparks and Hines Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -10.78 minutes, distance in KM-10.78 to Wilson-Perkins Hospital facilty
+2025-07-19 02:44:17,710 final research result info for the user on hospital arrival: ETA -9.8 minutes, distance in KM-9.8 to Dodson, Daugherty and Lozano Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -11.21 minutes, distance in KM-11.21 to Copeland-Berg Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -3.33 minutes, distance in KM-3.33 to Banks, Parsons and Moore Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.73 minutes, distance in KM-7.73 to Harrington-Vaughn Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.03 minutes, distance in KM-7.03 to West PLC Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -10.14 minutes, distance in KM-10.14 to Black, Bentley and Long Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -9.4 minutes, distance in KM-9.4 to Pace, Gibson and Dominguez Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -6.01 minutes, distance in KM-6.01 to Benson, Camacho and Palmer Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.52 minutes, distance in KM-7.52 to Wilson Inc Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -8.66 minutes, distance in KM-8.66 to Sexton Inc Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -4.04 minutes, distance in KM-4.04 to Combs PLC Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -2.36 minutes, distance in KM-2.36 to Boyd-Thomas Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -15.62 minutes, distance in KM-15.62 to Sloan-Mahoney Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -12.84 minutes, distance in KM-12.84 to Webster, Vasquez and Ryan Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -4.64 minutes, distance in KM-4.64 to Maddox-Welch Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.32 minutes, distance in KM-7.32 to Farmer-Rodriguez Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.19 minutes, distance in KM-7.19 to Coffey, Jones and Smith Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -6.2 minutes, distance in KM-6.2 to Smith-Sparks Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -10.58 minutes, distance in KM-10.58 to Norris-Ramos Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -10.5 minutes, distance in KM-10.5 to Charles and Sons Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -4.11 minutes, distance in KM-4.11 to Bradshaw-Lawson Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -9.97 minutes, distance in KM-9.97 to Barker, Myers and Stephenson Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -8.0 minutes, distance in KM-8.0 to Hawkins, Scott and Horn Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -11.73 minutes, distance in KM-11.73 to Owens-Beck Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -9.67 minutes, distance in KM-9.67 to Reed-Orr Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -12.75 minutes, distance in KM-12.75 to Wang, Marshall and Conner Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -4.67 minutes, distance in KM-4.67 to Oneill, Burns and Dominguez Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -8.56 minutes, distance in KM-8.56 to Glenn, Dixon and Jones Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -3.91 minutes, distance in KM-3.91 to Wilson-Lewis Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -8.58 minutes, distance in KM-8.58 to Sullivan and Sons Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -9.03 minutes, distance in KM-9.03 to Jefferson-Williams Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -8.32 minutes, distance in KM-8.32 to Dean, Bush and Davis Hospital facilty
+2025-07-19 02:44:17,711 final research result info for the user on hospital arrival: ETA -7.14 minutes, distance in KM-7.14 to Williams-Williamson Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -12.55 minutes, distance in KM-12.55 to Wagner Group Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -3.13 minutes, distance in KM-3.13 to Holden-Ayala Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -11.97 minutes, distance in KM-11.97 to Huff, Goodwin and Fischer Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -1.75 minutes, distance in KM-1.75 to Hansen, Olson and Zimmerman Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -7.62 minutes, distance in KM-7.62 to Tran-Jensen Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -2.09 minutes, distance in KM-2.09 to Hernandez Group Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -8.06 minutes, distance in KM-8.06 to Anderson, Riggs and Thompson Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -12.76 minutes, distance in KM-12.76 to Walsh-Baker Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -5.57 minutes, distance in KM-5.57 to Love-Cooper Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -10.2 minutes, distance in KM-10.2 to Mckinney, Riley and Norris Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -11.81 minutes, distance in KM-11.81 to Davis, Graham and Fleming Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -5.07 minutes, distance in KM-5.07 to Greene, Smith and Reed Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -3.4 minutes, distance in KM-3.4 to Sanchez, Hill and Castro Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -10.37 minutes, distance in KM-10.37 to Ramirez, Smith and Cook Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -2.83 minutes, distance in KM-2.83 to Ray Ltd Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -6.57 minutes, distance in KM-6.57 to Cantrell, Rodriguez and Doyle Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -3.13 minutes, distance in KM-3.13 to Peterson, Hill and Myers Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -4.56 minutes, distance in KM-4.56 to Hall-Yang Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -6.42 minutes, distance in KM-6.42 to Mason-Martin Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -7.14 minutes, distance in KM-7.14 to Perry, Woods and Neal Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -1.83 minutes, distance in KM-1.83 to Hanson-Hess Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -8.93 minutes, distance in KM-8.93 to Morgan and Sons Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -11.63 minutes, distance in KM-11.63 to Spears Group Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -13.06 minutes, distance in KM-13.06 to Pierce-Gilbert Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -5.48 minutes, distance in KM-5.48 to Dillon Inc Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -7.03 minutes, distance in KM-7.03 to Beasley-White Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -6.28 minutes, distance in KM-6.28 to Rangel Group Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -10.59 minutes, distance in KM-10.59 to Mills Ltd Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -4.36 minutes, distance in KM-4.36 to Bridges-Stark Hospital facilty
+2025-07-19 02:44:17,712 final research result info for the user on hospital arrival: ETA -3.11 minutes, distance in KM-3.11 to Davidson-Dunn Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -5.67 minutes, distance in KM-5.67 to Hickman Ltd Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.1 minutes, distance in KM-7.1 to Sharp and Sons Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -6.47 minutes, distance in KM-6.47 to Gonzales, Simpson and Allen Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -4.91 minutes, distance in KM-4.91 to Duran-Miller Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.72 minutes, distance in KM-8.72 to Graham Inc Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.45 minutes, distance in KM-7.45 to Campbell Inc Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.33 minutes, distance in KM-7.33 to Roberts-Day Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -13.61 minutes, distance in KM-13.61 to Johnson-Miller Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -12.11 minutes, distance in KM-12.11 to Smith-Villarreal Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.91 minutes, distance in KM-8.91 to Gallagher Inc Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -4.26 minutes, distance in KM-4.26 to Marshall, Guzman and Dougherty Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -14.46 minutes, distance in KM-14.46 to Myers-Wu Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -12.11 minutes, distance in KM-12.11 to Joseph, Bell and Terry Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -10.52 minutes, distance in KM-10.52 to Hunter-Jones Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.15 minutes, distance in KM-7.15 to Richards, Jackson and Marks Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -9.29 minutes, distance in KM-9.29 to Landry-Galvan Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -11.22 minutes, distance in KM-11.22 to Ramirez, Gregory and Morgan Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -10.35 minutes, distance in KM-10.35 to Brown PLC Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.99 minutes, distance in KM-8.99 to Lewis, Gonzalez and Vasquez Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.51 minutes, distance in KM-7.51 to Lee, Henry and Thompson Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -4.37 minutes, distance in KM-4.37 to Clark-Shields Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.67 minutes, distance in KM-8.67 to Garza, Lang and Flores Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.41 minutes, distance in KM-8.41 to Taylor-Sanchez Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.55 minutes, distance in KM-8.55 to Wallace Ltd Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -11.99 minutes, distance in KM-11.99 to Bailey LLC Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -6.57 minutes, distance in KM-6.57 to Gates, Watson and Wells Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.56 minutes, distance in KM-8.56 to Tucker, Long and Jackson Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -8.97 minutes, distance in KM-8.97 to Schneider PLC Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.37 minutes, distance in KM-7.37 to Butler Group Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -4.77 minutes, distance in KM-4.77 to Horton Ltd Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -6.21 minutes, distance in KM-6.21 to Molina-Osborne Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -7.54 minutes, distance in KM-7.54 to Nunez, Campbell and Rollins Hospital facilty
+2025-07-19 02:44:17,713 final research result info for the user on hospital arrival: ETA -14.1 minutes, distance in KM-14.1 to Sullivan-Martin Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -2.65 minutes, distance in KM-2.65 to Noble LLC Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -13.16 minutes, distance in KM-13.16 to Palmer-Turner Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -5.3 minutes, distance in KM-5.3 to Woods, Taylor and Gould Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.33 minutes, distance in KM-10.33 to Howell and Sons Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -4.52 minutes, distance in KM-4.52 to Fisher, Hudson and Richardson Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -4.16 minutes, distance in KM-4.16 to Johnson, Floyd and Lawrence Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -8.44 minutes, distance in KM-8.44 to Stone and Sons Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.13 minutes, distance in KM-10.13 to Vasquez, Jones and Gill Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -5.29 minutes, distance in KM-5.29 to White, Morris and Foster Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -6.59 minutes, distance in KM-6.59 to Carter, Reyes and Thornton Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -0.66 minutes, distance in KM-0.66 to Shepard and Sons Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -9.38 minutes, distance in KM-9.38 to Gonzalez, Gomez and Stanley Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -13.6 minutes, distance in KM-13.6 to Nixon, Collins and Fernandez Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -3.86 minutes, distance in KM-3.86 to French, Buckley and Taylor Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -4.04 minutes, distance in KM-4.04 to Lawson-Norton Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -8.32 minutes, distance in KM-8.32 to Garcia Ltd Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -2.19 minutes, distance in KM-2.19 to Contreras-Werner Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -11.11 minutes, distance in KM-11.11 to Johnson, Walker and Jackson Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -5.45 minutes, distance in KM-5.45 to Vazquez-White Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -5.04 minutes, distance in KM-5.04 to Waller-Miller Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -11.36 minutes, distance in KM-11.36 to Chase-Dixon Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.57 minutes, distance in KM-10.57 to Watson Ltd Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -7.06 minutes, distance in KM-7.06 to Christensen, Pruitt and Valencia Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -12.08 minutes, distance in KM-12.08 to Little-Santiago Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.52 minutes, distance in KM-10.52 to Douglas LLC Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.3 minutes, distance in KM-10.3 to Ross, Sanchez and Johnson Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -7.5 minutes, distance in KM-7.5 to Singleton-Grant Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -6.69 minutes, distance in KM-6.69 to Rodriguez-Guerrero Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -12.26 minutes, distance in KM-12.26 to Wong PLC Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -0.97 minutes, distance in KM-0.97 to Romero-Miller Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -5.34 minutes, distance in KM-5.34 to Beard Ltd Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -13.54 minutes, distance in KM-13.54 to Clark and Sons Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -10.79 minutes, distance in KM-10.79 to Torres-Swanson Hospital facilty
+2025-07-19 02:44:17,714 final research result info for the user on hospital arrival: ETA -4.8 minutes, distance in KM-4.8 to Wilkins, King and Stanley Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -6.25 minutes, distance in KM-6.25 to Wang-Kelly Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -6.24 minutes, distance in KM-6.24 to Franco-Sparks Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -11.03 minutes, distance in KM-11.03 to Huffman and Sons Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -4.57 minutes, distance in KM-4.57 to Stone-Fisher Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -12.58 minutes, distance in KM-12.58 to Hanson, Dorsey and Bowman Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -4.28 minutes, distance in KM-4.28 to Cooper-Contreras Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -5.35 minutes, distance in KM-5.35 to Charles-Fowler Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -2.21 minutes, distance in KM-2.21 to Hall-Marks Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -11.73 minutes, distance in KM-11.73 to Mathis, Morrison and Contreras Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -6.59 minutes, distance in KM-6.59 to Russell-Dudley Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -6.45 minutes, distance in KM-6.45 to Neal, Lee and Cook Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -3.77 minutes, distance in KM-3.77 to Preston PLC Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -9.99 minutes, distance in KM-9.99 to Grimes, Zamora and Figueroa Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -9.3 minutes, distance in KM-9.3 to Robles-Anderson Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -8.47 minutes, distance in KM-8.47 to Sanchez, Hubbard and Huff Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -10.89 minutes, distance in KM-10.89 to Adkins-Harrison Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -9.55 minutes, distance in KM-9.55 to Ward Inc Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -8.69 minutes, distance in KM-8.69 to Singh, Alvarez and Perez Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -7.66 minutes, distance in KM-7.66 to Griffin Inc Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -7.93 minutes, distance in KM-7.93 to Lucero LLC Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -10.34 minutes, distance in KM-10.34 to Ramirez, Garrett and Roberson Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -15.28 minutes, distance in KM-15.28 to James, Fox and Johnson Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -9.41 minutes, distance in KM-9.41 to Anderson Inc Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -3.45 minutes, distance in KM-3.45 to Jones, Gallegos and Owens Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -10.05 minutes, distance in KM-10.05 to Lara-Green Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -0.75 minutes, distance in KM-0.75 to Franco-Herman Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -10.09 minutes, distance in KM-10.09 to Soto-Barber Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -14.5 minutes, distance in KM-14.5 to Hill, Robinson and Ortiz Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -12.22 minutes, distance in KM-12.22 to Juarez, Davis and Decker Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -3.62 minutes, distance in KM-3.62 to Brown-Walker Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -8.09 minutes, distance in KM-8.09 to Davis-Hart Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -7.81 minutes, distance in KM-7.81 to Lee-Rogers Hospital facilty
+2025-07-19 02:44:17,715 final research result info for the user on hospital arrival: ETA -2.3 minutes, distance in KM-2.3 to Francis, Armstrong and Padilla Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -4.93 minutes, distance in KM-4.93 to Guerrero PLC Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -10.9 minutes, distance in KM-10.9 to Mcguire-Webb Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -3.84 minutes, distance in KM-3.84 to Garcia Group Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -5.23 minutes, distance in KM-5.23 to Shaffer-Wong Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -5.0 minutes, distance in KM-5.0 to Hicks, Parker and Atkinson Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -12.23 minutes, distance in KM-12.23 to Clark, Moore and Guerra Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -11.12 minutes, distance in KM-11.12 to Palmer, Johnson and Reed Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -3.69 minutes, distance in KM-3.69 to Castillo, Gardner and Howard Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -5.14 minutes, distance in KM-5.14 to Ward, Johnson and Hernandez Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -13.43 minutes, distance in KM-13.43 to Bullock, Ibarra and Hansen Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -3.82 minutes, distance in KM-3.82 to Jones, Perez and Wilson Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -8.23 minutes, distance in KM-8.23 to Henderson, Bryan and King Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -9.07 minutes, distance in KM-9.07 to Hobbs, Ramirez and Clarke Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -7.26 minutes, distance in KM-7.26 to Graves-Jackson Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -8.47 minutes, distance in KM-8.47 to Kramer, Woods and Hobbs Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -7.06 minutes, distance in KM-7.06 to King-Jones Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -10.13 minutes, distance in KM-10.13 to Mclaughlin, Gentry and Frank Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -9.95 minutes, distance in KM-9.95 to Cook-Haley Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -10.63 minutes, distance in KM-10.63 to Spears, Nguyen and Ramos Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -1.28 minutes, distance in KM-1.28 to Dickson-Stewart Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -6.4 minutes, distance in KM-6.4 to Miller, Jones and Russell Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -6.57 minutes, distance in KM-6.57 to Rogers-Ferrell Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -11.63 minutes, distance in KM-11.63 to Cervantes-Nelson Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -15.65 minutes, distance in KM-15.65 to Montoya and Sons Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -3.03 minutes, distance in KM-3.03 to Rodriguez-Rodriguez Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -5.68 minutes, distance in KM-5.68 to Hess Group Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -10.38 minutes, distance in KM-10.38 to Warren-Hunt Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -10.46 minutes, distance in KM-10.46 to Evans and Sons Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -3.8 minutes, distance in KM-3.8 to Moore, Carson and Bailey Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -11.97 minutes, distance in KM-11.97 to Fowler, Bailey and Lucero Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -11.09 minutes, distance in KM-11.09 to Miles, Johnson and Baker Hospital facilty
+2025-07-19 02:44:17,716 final research result info for the user on hospital arrival: ETA -7.66 minutes, distance in KM-7.66 to Cruz-Brown Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -12.03 minutes, distance in KM-12.03 to Miller, Brown and Aguirre Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.6 minutes, distance in KM-8.6 to Murphy Inc Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -11.46 minutes, distance in KM-11.46 to Armstrong-Ellison Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -3.46 minutes, distance in KM-3.46 to Andrade PLC Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -12.07 minutes, distance in KM-12.07 to Jenkins, Hoffman and Rivera Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -12.1 minutes, distance in KM-12.1 to Taylor, Green and Turner Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.51 minutes, distance in KM-8.51 to Walker, Roach and Mckee Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.41 minutes, distance in KM-8.41 to Hernandez, Peterson and Perry Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -14.12 minutes, distance in KM-14.12 to Gamble PLC Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.71 minutes, distance in KM-8.71 to Ryan-Cooper Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -4.53 minutes, distance in KM-4.53 to Miller Ltd Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -3.35 minutes, distance in KM-3.35 to Goodwin, Franklin and Johnson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -6.92 minutes, distance in KM-6.92 to Haynes Inc Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -4.15 minutes, distance in KM-4.15 to Lopez-Yang Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -4.86 minutes, distance in KM-4.86 to Wood-Hanson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -5.63 minutes, distance in KM-5.63 to Cook Group Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.88 minutes, distance in KM-8.88 to Cox-Donaldson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -12.34 minutes, distance in KM-12.34 to Steele, Harper and Martin Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -6.56 minutes, distance in KM-6.56 to Weaver-Johnson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -8.76 minutes, distance in KM-8.76 to Acosta-Espinoza Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -5.77 minutes, distance in KM-5.77 to Patton and Sons Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -11.35 minutes, distance in KM-11.35 to Holmes-Thompson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -7.87 minutes, distance in KM-7.87 to Tucker-White Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -10.84 minutes, distance in KM-10.84 to Rowland-Nunez Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -11.09 minutes, distance in KM-11.09 to Taylor, Fernandez and Macias Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -5.38 minutes, distance in KM-5.38 to Wilson-Salazar Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -11.96 minutes, distance in KM-11.96 to Conrad PLC Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -12.24 minutes, distance in KM-12.24 to Schwartz-Porter Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -5.93 minutes, distance in KM-5.93 to Sloan, Foley and Stark Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -5.67 minutes, distance in KM-5.67 to Hawkins-Richardson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -10.57 minutes, distance in KM-10.57 to Wyatt-Johnson Hospital facilty
+2025-07-19 02:44:17,717 final research result info for the user on hospital arrival: ETA -3.12 minutes, distance in KM-3.12 to Meyer Inc Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -8.68 minutes, distance in KM-8.68 to Price Inc Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -11.93 minutes, distance in KM-11.93 to Chandler Group Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -11.32 minutes, distance in KM-11.32 to Miller, Deleon and Singh Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.01 minutes, distance in KM-7.01 to Villanueva Ltd Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -2.29 minutes, distance in KM-2.29 to Park-Ford Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -8.73 minutes, distance in KM-8.73 to Phillips, Allen and Flores Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -8.0 minutes, distance in KM-8.0 to Freeman, Jefferson and Jones Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -4.49 minutes, distance in KM-4.49 to Goodman-Jackson Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -3.91 minutes, distance in KM-3.91 to Francis, Carroll and Willis Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -5.81 minutes, distance in KM-5.81 to Cook-Ellis Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -11.08 minutes, distance in KM-11.08 to Hughes, Collins and Murray Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.81 minutes, distance in KM-7.81 to Rogers PLC Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.16 minutes, distance in KM-7.16 to Walsh-Dunn Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -9.44 minutes, distance in KM-9.44 to Lewis, Smith and Wagner Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -2.33 minutes, distance in KM-2.33 to Tran-Daugherty Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -1.07 minutes, distance in KM-1.07 to Curtis-Anderson Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -3.19 minutes, distance in KM-3.19 to Romero Inc Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.24 minutes, distance in KM-7.24 to Cox, Goodwin and Hudson Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -2.44 minutes, distance in KM-2.44 to Jones, Parrish and Hoffman Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -2.49 minutes, distance in KM-2.49 to Turner, Gonzales and King Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.17 minutes, distance in KM-7.17 to Hernandez-Clay Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -4.73 minutes, distance in KM-4.73 to Ortega-Mayer Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -5.96 minutes, distance in KM-5.96 to Gonzalez-Lewis Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -8.78 minutes, distance in KM-8.78 to Diaz-Baker Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -9.02 minutes, distance in KM-9.02 to Harding-House Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -12.13 minutes, distance in KM-12.13 to Stokes LLC Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -6.46 minutes, distance in KM-6.46 to Velazquez LLC Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -4.19 minutes, distance in KM-4.19 to Schmitt-Brown Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -8.61 minutes, distance in KM-8.61 to Smith, Mills and Guerrero Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -12.48 minutes, distance in KM-12.48 to Taylor, Baxter and Scott Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -12.58 minutes, distance in KM-12.58 to Mcdaniel, Gonzalez and Anderson Hospital facilty
+2025-07-19 02:44:17,718 final research result info for the user on hospital arrival: ETA -7.16 minutes, distance in KM-7.16 to Webb-Brown Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -12.74 minutes, distance in KM-12.74 to Everett LLC Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -4.8 minutes, distance in KM-4.8 to Adams Inc Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -2.77 minutes, distance in KM-2.77 to Coleman-English Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -7.04 minutes, distance in KM-7.04 to Garcia, Hall and Roth Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -10.62 minutes, distance in KM-10.62 to Barnes, Rhodes and Hall Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -8.07 minutes, distance in KM-8.07 to Todd-Baker Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -6.99 minutes, distance in KM-6.99 to Nguyen-Evans Hospital facilty
+2025-07-19 02:44:17,719 final research result info for the user on hospital arrival: ETA -11.56 minutes, distance in KM-11.56 to Hubbard, Parker and Cooper Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -7.48 minutes, distance in KM-7.48 to Boyer-Andrews Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -2.06 minutes, distance in KM-2.06 to Allen-Arnold Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -2.62 minutes, distance in KM-2.62 to Ramirez-Mack Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -9.22 minutes, distance in KM-9.22 to Lopez-Rowe Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -4.15 minutes, distance in KM-4.15 to Fox-Davis Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -9.93 minutes, distance in KM-9.93 to Leonard-Johnson Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -9.98 minutes, distance in KM-9.98 to Fowler-Jackson Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -10.6 minutes, distance in KM-10.6 to York-Gonzalez Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -6.84 minutes, distance in KM-6.84 to Diaz-Fisher Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -2.7 minutes, distance in KM-2.7 to Stephenson-Jacobson Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -11.19 minutes, distance in KM-11.19 to Krause, House and Short Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -6.27 minutes, distance in KM-6.27 to Case, Bright and Ramirez Hospital facilty
+2025-07-19 02:44:17,720 final research result info for the user on hospital arrival: ETA -0.24 minutes, distance in KM-0.24 to Ruiz Inc Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -12.52 minutes, distance in KM-12.52 to Mcclain and Sons Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -12.72 minutes, distance in KM-12.72 to Adams Ltd Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -4.31 minutes, distance in KM-4.31 to Flores, Gonzales and Morales Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -3.57 minutes, distance in KM-3.57 to Hanna and Sons Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -8.24 minutes, distance in KM-8.24 to Martin-Williams Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -13.74 minutes, distance in KM-13.74 to Byrd-Gonzalez Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -12.44 minutes, distance in KM-12.44 to Ayala, Turner and Stuart Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -8.16 minutes, distance in KM-8.16 to Hernandez-Hawkins Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -10.19 minutes, distance in KM-10.19 to Barber and Sons Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -10.09 minutes, distance in KM-10.09 to Orr PLC Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -8.43 minutes, distance in KM-8.43 to Lewis, Williams and Harris Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -3.01 minutes, distance in KM-3.01 to Wall-Williams Hospital facilty
+2025-07-19 02:44:17,721 final research result info for the user on hospital arrival: ETA -7.14 minutes, distance in KM-7.14 to Becker-Adams Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -10.24 minutes, distance in KM-10.24 to Reyes-Young Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -6.56 minutes, distance in KM-6.56 to Garcia, Heath and Singleton Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -8.58 minutes, distance in KM-8.58 to Ramirez and Sons Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -8.47 minutes, distance in KM-8.47 to Brewer and Sons Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -10.46 minutes, distance in KM-10.46 to Hicks-Ingram Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -6.51 minutes, distance in KM-6.51 to Brown, Thompson and Hall Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -11.95 minutes, distance in KM-11.95 to Knight, Morgan and Hawkins Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -3.04 minutes, distance in KM-3.04 to Thompson-Taylor Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -13.55 minutes, distance in KM-13.55 to Ibarra, Harris and Butler Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -11.3 minutes, distance in KM-11.3 to Edwards Group Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -13.39 minutes, distance in KM-13.39 to Pittman, Fields and Hamilton Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -11.03 minutes, distance in KM-11.03 to Smith Ltd Hospital facilty
+2025-07-19 02:44:17,722 final research result info for the user on hospital arrival: ETA -5.09 minutes, distance in KM-5.09 to Sanchez, Johnson and Nunez Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -12.11 minutes, distance in KM-12.11 to Wells, Tucker and Wright Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -4.42 minutes, distance in KM-4.42 to Hampton-Ryan Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -9.7 minutes, distance in KM-9.7 to Cooper, Carter and Gibson Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -6.96 minutes, distance in KM-6.96 to Becker, Duncan and Mccoy Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -9.93 minutes, distance in KM-9.93 to Reese, James and Taylor Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -6.68 minutes, distance in KM-6.68 to Frank, Watkins and Garrett Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -2.72 minutes, distance in KM-2.72 to Cooper Group Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -6.15 minutes, distance in KM-6.15 to Bell-Mcintyre Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -10.21 minutes, distance in KM-10.21 to Rice-Castillo Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -11.23 minutes, distance in KM-11.23 to Rosales-Dixon Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -6.87 minutes, distance in KM-6.87 to Roach Ltd Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -9.52 minutes, distance in KM-9.52 to Morris-Carney Hospital facilty
+2025-07-19 02:44:17,723 final research result info for the user on hospital arrival: ETA -4.55 minutes, distance in KM-4.55 to Banks-Guerrero Hospital facilty
+2025-07-19 02:44:17,724 Hospital Name: Mcclain, Walker and Ramirez Hospital/n
+                                            ETA to hospital: 0.18 minutes
+                                            Distance to hospital: 0.18 KM
+2025-07-19 02:44:17,724 Hospital Name: Ruiz Inc Hospital/n
+                                            ETA to hospital: 0.24 minutes
+                                            Distance to hospital: 0.24 KM
+2025-07-19 02:44:17,724 Hospital Name: Hill and Sons Hospital/n
+                                            ETA to hospital: 0.27 minutes
+                                            Distance to hospital: 0.27 KM
+2025-07-19 02:44:17,724 Hospital Name: Shepard and Sons Hospital/n
+                                            ETA to hospital: 0.66 minutes
+                                            Distance to hospital: 0.66 KM
+2025-07-19 02:44:17,724 Hospital Name: Franco-Herman Hospital/n
+                                            ETA to hospital: 0.75 minutes
+                                            Distance to hospital: 0.75 KM
+2025-07-19 02:55:22,627 Do you want to continue using the application (yes or no): no ✅
+2025-07-19 02:55:22,627 👋 Goodbye Eva

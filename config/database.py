@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
+import sys
 import os
 from dotenv import load_dotenv
 import asyncio
 import aiomysql
-import uuid
+from logs.log_config import logger
 
 
 # load the env variables
@@ -33,9 +34,11 @@ class AsyncDbContext:
             # connect/set the database to be used
             await self.cur.execute(f"USE {os.getenv('DATABASE_NAME')}")
 
+            logger.info(f"🗄️ Database {os.getenv('DATABASE_NAME')} created successfully")
             print(f"🗄️ Database created successfully")
 
         except aiomysql.Error as e:
+            logger.error(f"❌ An error occurred: {e}")
             print(f"❌ An error occurred: {e}")
         
         # Return the cursor
@@ -58,17 +61,21 @@ async def async_create_table(cur):
                         name VARCHAR(250) NOT NULL,
                         address VARCHAR(250) NOT NULL,
                         state VARCHAR(200) NOT NULL,
-                        city VARCHAR(200) NOT NULL,    
-                        geo_lan DECIMAL(9, 6) NOT NULL,
+                        city VARCHAR(200) NOT NULL,
+                        area VARCHAR(200) NOT NULL,    
+                        geo_lon DECIMAL(9, 6) NOT NULL,
                         geo_lat DECIMAL(9, 6) NOT NULL,
-                        support_levels ENUM('low', 'medium', 'high', 'critical'),
+                        support_levels SET('low', 'medium', 'high', 'critical'),
+                        phone VARCHAR(25) NOT NULL,
                         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                         INDEX hos_name (name),
                         INDEX hos_addr(address)
                         )""")    
         print("✅ Table were successfully created!")
+        logger.info(f"✅ Table were successfully created!")
     except aiomysql.Error as e:
         print(f" ❌ An error occurred while creating table: {e}")
+        logger.error(f"❌ An error occurred while creating table: {e}")
 
 
 
