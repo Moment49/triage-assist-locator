@@ -65,8 +65,8 @@ def cal_hospital_eta(func):
                 victim_lon2 = radians(victim_lon)
 
                 #Radian distance between each location 
-                dLat = radians(victim_lat2 - hosp_lat1)
-                dLon = radians(victim_lon2 - hosp_lon1)
+                dLat = victim_lat2 - hosp_lat1
+                dLon = victim_lon2 - hosp_lon1
 
                 # Haversine Formular to calculate the distance
                 a = sin(dLat/2)**2 + cos(hosp_lat1)*cos(victim_lat2)*sin(dLon/2)**2
