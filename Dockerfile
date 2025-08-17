@@ -21,4 +21,4 @@ COPY . /app/
 #   1. Initialize the database (config.database)
 #   2. Run utility setup tasks (config.utils)
 #   3. Start the main application (main.triage_locator)
-CMD python3 -m config.database && python3 -m config.utlis && python3 -m main.triage_locator
+CMD ["sh", "-c",  "python3 -m config.database && python3 -m config.utils && python3 -m main.triage_locator"]
