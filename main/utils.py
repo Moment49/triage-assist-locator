@@ -41,7 +41,7 @@ def cal_hospital_eta(func):
         results = func(*args, **kwargs)
         geolocator = Nominatim(user_agent="triage-location-service")
         logger.info(f"This is the geolocator object that will be \
-                    returned once whic will be used to get the lat and lon coordinates: {geolocator}")
+                    returned once, which will be used to get the lat and lon coordinates: {geolocator}")
         location =  geolocator.geocode(f"{user_location}")
         victim_lat = location.latitude
         victim_lon = location.longitude
@@ -62,7 +62,7 @@ def cal_hospital_eta(func):
                 hosp_lat1 = radians(hosp_lat)
                 hosp_lon1 = radians(hosp_lon)
                 victim_lat2 = radians(victim_lat)
-                victim_lon2 = radians(victim_lat)
+                victim_lon2 = radians(victim_lon)
 
                 #Radian distance between each location 
                 dLat = radians(victim_lat2 - hosp_lat1)

@@ -119,8 +119,8 @@ pip install -r requirements.txt
 Run the application from the project root:
 
 ```bash
-python3 -m  main.triage_locator.py or
-python -m main.triage_locator.py
+python3 -m  main.triage_locator or
+python -m main.triage_locator
 ```
 
 Follow the on-screen prompts to enter your name, location, and emergency severity. The program will display the top 5 nearest hospitals with ETA and distance.

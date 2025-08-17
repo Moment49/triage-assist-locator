@@ -29,14 +29,14 @@ async def db_connect():
     try:
         conn = await aiomysql.connect(
                     host=os.getenv('HOST'),
-                    user=os.getenv('USER'), 
+                    user=os.getenv('DB_USER'), 
                     password=os.getenv('PASSWORD'),
                     port=int(os.getenv('PORT')),
                     db=os.getenv('DATABASE_NAME')
                     )
         return conn
     except Exception as e:
-        print(f"An error occurred: {e}")
+        logger.error(f"An error occurred while connecting to db: {e}")
     
 
 
@@ -53,7 +53,6 @@ def data_insert_transactional(func):
                 await cur.execute("SELECT * FROM hospitals WHERE name = %s", (data_yield['name'],))
                 result = await cur.fetchone()
                 if result:
-                    # print("hospital data already exists skipp")
                     logger.info(f"❌hospital data already exists skipp")
                     continue
                 else:
@@ -71,12 +70,10 @@ def data_insert_transactional(func):
                     await conn.commit()
                     
                     # print("data inserted successfully..")
-                    logger.info(f"✅ Table were successfully created!")
+                    logger.info(f"✅ Data inserted successfully..")
             except aiomysql.Error as e:
                 logger.error(f"❌An error occurred while inserting data:{e}")
                 logger.error(f"❌Rolling back db transaction...")
-                # print(f"An error occurred while inserting data:{e}")
-                # print(f"Rolling back db transaction...")
                 await conn.rollback()
 
         # Close cursor after all the data has been inserted
@@ -98,7 +95,6 @@ async def data_processing(conn, file_path):
         data = json.load(file)
     
     for hos_data in data:
-        # time.sleep(2)
         yield hos_data
 
 

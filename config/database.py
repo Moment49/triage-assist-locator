@@ -22,7 +22,7 @@ class AsyncDbContext:
         try:
             self.conn = await aiomysql.connect(
                 host=os.getenv('HOST'),
-                user=os.getenv('USER'), 
+                user=os.getenv('DB_USER'), 
                 password=os.getenv('PASSWORD'),
                 port=int(os.getenv('PORT'))
                 )
