@@ -11,8 +11,8 @@ from math import cos, sqrt, radians, asin, sin
 
 load_dotenv()
 
-# Note: Assume the standard Average speed in Nigera - 60KM
-AVG_SPEED = 60
+# Note: Assume the standard Average speed in Nigera - 40KM
+AVG_SPEED = 40
 
 # Assume mean radius of earth (Haversin standard)
 R = 6371
@@ -74,6 +74,7 @@ def cal_hospital_eta(func):
 
                 # Cacluate the Overall distance in KM between the two points round off to 2 decimals
                 distance = round(R * c, 2)
+                logger.info(f"Test distance: {distance}")
 
                
                 # Now caculate the ETA (Expected time of arrival)
@@ -82,6 +83,7 @@ def cal_hospital_eta(func):
                 # Calculate EAT using formular, time = distance / average speed 
                 # Plan to use and api or use geo data to get varying average speeds based on certain locations
                 global AVG_SPEED
+                
 
                 # Round off the EAT to one decimal place
                 ETA = round((distance / AVG_SPEED) * 60, 2)

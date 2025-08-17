@@ -80,7 +80,7 @@ async def main():
                         print(f"Hospital Name | ETA to hospital | Distance to hospital") 
                         print(sorted_hospital_result)
                         for eta_hos in sorted_hospital_result[:5]:
-                            print(f"{eta_hos['name']}  {eta_hos['ETA_in_minutes']} minutes - {eta_hos['distance']} KM ")
+                            # print(f"{eta_hos['name']}  {eta_hos['ETA_in_minutes']} minutes - {eta_hos['distance']} KM ")
                             logger.info(f"""Hospital Name: {eta_hos['name']} ETA to hospital: {eta_hos['ETA_in_minutes']} minutes
                                             Distance to hospital: {eta_hos['distance']} KM""")
 
